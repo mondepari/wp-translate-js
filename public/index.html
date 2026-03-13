@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>WP Translate - Auto translate .PO/.POT files</title>
+    <style>
+        body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; max-width: 600px; margin: 40px auto; padding: 20px; line-height: 1.6; color: #333; }
+        .box { border: 2px dashed #0073aa; padding: 30px; text-align: center; border-radius: 8px; margin-bottom: 20px; background: #f9f9f9; }
+        .btn { background: #0073aa; color: white; border: none; padding: 10px 20px; font-size: 16px; border-radius: 4px; cursor: pointer; transition: 0.2s; }
+        .btn:hover { background: #005177; }
+        .btn:disabled { background: #ccc; cursor: not-allowed; }
+        select { padding: 10px; font-size: 16px; width: 100%; margin-bottom: 20px; border-radius: 4px; border: 1px solid #ccc; }
+        #progressContainer { display: none; margin-top: 20px; }
+        progress { width: 100%; height: 20px; }
+        #log { font-size: 14px; color: #666; margin-top: 10px; }
+        a { color: #0073aa; text-decoration: none; }
+        a:hover { text-decoration: underline; }
+    </style>
+</head>
+<body>
+
+    <h1>WP Translate</h1>
+    <p>Upload your <code>.pot</code> or <code>.po</code> file from any WordPress theme/plugin and automatically translate it via Google Translate API while safely preserving <code>%s</code> placeholders and HTML tags.</p>
+
+    <div class="box">
+        <label for="file"><strong>1. Select PO/POT file:</strong></label><br><br>
+        <input type="file" id="file" accept=".po,.pot">
+        <br><br><br>
+
+        <label for="toLang"><strong>2. Select Target Language:</strong></label><br>
+        <select id="toLang">
+            <option value="ru">Russian (ru_RU)</option>
+            <option value="es">Spanish (es_ES)</option>
+            <option value="fr">French (fr_FR)</option>
+            <option value="de">German (de_DE)</option>
+            <option value="it">Italian (it_IT)</option>
+        </select>
+        <br><br>
+
+        <label for="exclusions"><strong>3. Excluded Words (Optional):</strong></label><br>
+        <p style="font-size: 13px; color: #666; margin-top: 0;">Comma or newline separated rules (e.g., brand names, specific tags). Lines containing these words will be skipped.</p>
+        <textarea id="exclusions" rows="4" style="width: 100%; padding: 10px; border-radius: 4px; border: 1px solid #ccc; font-family: inherit; font-size: 14px;"></textarea>
+        <br><br>
+
+        <div style="text-align: left; margin-bottom: 20px;">
+            <strong>4. Action for excluded words:</strong><br><br>
+            <label style="cursor: pointer;"><input type="radio" name="untranslatedAction" value="keep" checked> Keep original string (Fallback)</label><br>
+            <label style="cursor: pointer;"><input type="radio" name="untranslatedAction" value="blank"> Leave translation field empty</label>
+        </div>
+
+        <button class="btn" id="startBtn" onclick="startTranslation()">Translate File</button>
+    </div>
+
+    <div id="progressContainer">
+        <h3>Translating... please wait</h3>
+        <progress id="progressBar" value="0" max="100"></progress>
+        <div id="log">Preparing...</div>
+    </div>
+
+    <script>
+        function startTranslation() {
+            const fileInput = document.getElementById('file');
+            if (!fileInput.files[0]) return alert('Please select a file first.');
+
+            const formData = new FormData();
+            formData.append('file', fileInput.files[0]);
+            formData.append('toLang', document.getElementById('toLang').value);
+            formData.append('fromLang', 'en');
+            formData.append('exclusions', document.getElementById('exclusions').value);
+            
+            const actionSelection = document.querySelector('input[name="untranslatedAction"]:checked').value;
+            formData.append('untranslatedAction', actionSelection);
+
+            document.getElementById('startBtn').disabled = true;
+            document.getElementById('progressContainer').style.display = 'block';
+            document.getElementById('log').innerText = 'Uploading file...';
+            document.getElementById('progressBar').removeAttribute('value');
+
+            // Send via XMLHttpRequest or Fetch
+            fetch('/api/translate', {
+                method: 'POST',
+                body: formData
+            })
+            .then(async response => {
+                const reader = response.body.getReader();
+                const decoder = new TextDecoder('utf-8');
+
+                while (true) {
+                    const { done, value } = await reader.read();
+                    if (done) break;
+
+                    const chunk = decoder.decode(value);
+                    const lines = chunk.split('\n\n');
+                    
+                    for (let line of lines) {
+                        if (line.startsWith('data: ')) {
+                            const data = JSON.parse(line.replace('data: ', ''));
+                            
+                            if (data.status === 'started') {
+                                document.getElementById('progressBar').max = data.total;
+                                document.getElementById('log').innerText = `Found ${data.total} strings to translate.`;
+                            } 
+                            else if (data.status === 'progress') {
+                                document.getElementById('progressBar').value = data.current;
+                                document.getElementById('log').innerText = `Translating: ${data.current} / ${data.total}`;
+                            }
+                            else if (data.status === 'completed') {
+                                document.getElementById('progressBar').value = document.getElementById('progressBar').max;
+                                document.getElementById('log').innerHTML = `<strong>Done!</strong> <br><br> <a href="${data.fileUrl}" class="btn" style="display:inline-block;margin-top:10px;">Download Translated File</a>`;
+                            }
+                            else if (data.status === 'error') {
+                                alert('Error: ' + data.message);
+                                document.getElementById('startBtn').disabled = false;
+                                document.getElementById('log').innerText = 'Failed.';
+                            }
+                        }
+                    }
+                }
+            })
+            .catch(err => {
+                alert('Connection error');
+                document.getElementById('startBtn').disabled = false;
+            });
+        }
+    </script>
+</body>
+</html>
