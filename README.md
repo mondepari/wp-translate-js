@@ -24,6 +24,9 @@ A lightweight, local Node.js server to automatically translate WordPress `.po` a
 4. **Open your browser and navigate to:**
    `http://localhost:3000`
 
+<img width="1245" height="863" alt="image" src="https://github.com/user-attachments/assets/64156734-e759-4616-9e31-d626774263fc" />
+
+
 ## How it works:
 
 1. Upload your theme/plugin's original `.pot` file (or an existing `.po` file).
