@@ -1,0 +1,3670 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Glozin\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-15 07:04+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.8.0; wp-6.8.2; php-8.2.12\n"
+"X-Domain: glozin"
+
+#: inc/woocommerce/helper.php:201
+msgid " for "
+msgstr ""
+
+#: inc/woocommerce/catalog/toolbar.php:260
+msgid " results in total"
+msgstr ""
+
+#: inc/blog/comments.php:180
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: inc/page-header.php:197
+#, php-format
+msgid "%d Search Results for: \"%s\""
+msgstr ""
+
+#: inc/breadcrumb.php:302 inc/breadcrumb.php:308 inc/breadcrumb.php:314
+#, php-format
+msgid "%s %s"
+msgstr ""
+
+#: woocommerce/single-product/rating.php:38
+#, php-format
+msgid "%s review"
+msgid_plural "%s reviews"
+msgstr[0] ""
+msgstr[1] ""
+
+#. %s - Label name
+#: inc/woocommerce/single-product/product-base.php:886
+#, php-format
+msgid "%s: "
+msgid_plural "%s: "
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/options.php:4478
+msgid "1 Column"
+msgstr ""
+
+#: inc/woocommerce/admin/customizer.php:718
+msgid "1 line"
+msgstr ""
+
+#: inc/options.php:3208 inc/options.php:4479
+msgid "2 Columns"
+msgstr ""
+
+#: inc/woocommerce/admin/customizer.php:719
+msgid "2 lines"
+msgstr ""
+
+#: inc/options.php:3209
+msgid "3 Columns"
+msgstr ""
+
+#: inc/woocommerce/admin/customizer.php:720
+msgid "3 lines"
+msgstr ""
+
+#: inc/options.php:3210
+msgid "4 Columns"
+msgstr ""
+
+#: inc/woocommerce/admin/customizer.php:721
+msgid "4 lines"
+msgstr ""
+
+#: 404.php:16
+msgid "404 Image"
+msgstr ""
+
+#: inc/woocommerce/admin/customizer.php:2203
+msgid "Accordion"
+msgstr ""
+
+#: inc/options.php:128 inc/options.php:151 inc/options.php:292
+#: inc/header/main.php:600 template-parts/header/account.php:17
+msgid "Account"
+msgstr ""
+
+#: inc/options.php:2478
+msgid "Account Display"
+msgstr ""
+
+#: inc/admin/plugin-install.php:151
+msgid "Activate installed plugin"
+msgid_plural "Activate installed plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/woocommerce/cart/mini-cart.php:255
+msgid "Add Coupon"
+msgstr ""
+
+#: inc/options.php:2749
+msgid "Add custom links of the trending searches"
+msgstr ""
+
+#: inc/woocommerce/cart/cart.php:230 inc/woocommerce/cart/cart.php:232
+#: inc/woocommerce/cart/mini-cart.php:251
+#: inc/woocommerce/cart/mini-cart.php:279
+msgid "Add Order Note"
+msgstr ""
+
+#: inc/woocommerce/compare.php:262 inc/woocommerce/admin/customizer.php:278
+msgid "Add To Cart"
+msgstr ""
+
+#: inc/woocommerce/wishlist.php:151 inc/woocommerce/wishlist.php:181
+msgid "Add to wishlist"
+msgstr ""
+
+#: inc/woocommerce/admin/customizer.php:879
+msgid "Added to Cart Notice"
+msgstr ""
+
+#: inc/woocommerce/admin/customizer.php:919
+msgid "Added to Compare Notification"
+msgstr ""
+
+#: inc/woocommerce/admin/customizer.php:893
+msgid "Added to Wishlist Notification"
+msgstr ""
+
+#: inc/woocommerce/admin/customizer.php:830
+#: inc/woocommerce/admin/customizer.php:867
+msgid "After Price"
+msgstr ""
+
+#: inc/woocommerce/admin/customizer.php:831
+#: inc/woocommerce/admin/customizer.php:868
+msgid "After Thumbnail"
+msgstr ""
+
+#: inc/admin/plugin-install.php:154
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: inc/woocommerce/admin/customizer.php:581
+msgid "Always Show"
+msgstr ""
+
+#: inc/options.php:4488
+msgid "Always Show Featured Icons"
+msgstr ""
+
+#: inc/woocommerce/cart/mini-cart.php:311
+msgid "Apply coupon"
+msgstr ""
+
+#: inc/breadcrumb.php:118
+msgid "Archives"
+msgstr ""
+
+#: inc/woocommerce/admin/customizer.php:1811
+msgid "Ask a Question"
+msgstr ""
+
+#: template-parts/modals/product-ask-question.php:15
+#: inc/woocommerce/single-product/ask-question.php:67
+msgid "Ask a question"
+msgstr ""
+
+#: inc/breadcrumb.php:123
+msgid "Author:"
+msgstr ""
+
+#: inc/options.php:3827
+msgid "Auto Icon Width"
+msgstr ""
+
+#: inc/woocommerce/compare.php:267 inc/woocommerce/admin/customizer.php:274
+msgid "Availability"
+msgstr ""
+
+#: woocommerce/single-product/meta.php:49
+msgid "Available:"
+msgstr ""
+
+#: inc/woocommerce/admin/customizer.php:820
+#: inc/woocommerce/admin/customizer.php:858
+#: inc/woocommerce/admin/customizer.php:1903
+msgid "Avatar - Vendor Name"
+msgstr ""
+
+#: inc/woocommerce/catalog/toolbar.php:281
+msgid "Average rating"
+msgstr ""
+
+#: 404.php:24
+msgid "Back to Homepage"
+msgstr ""
+
+#: inc/woocommerce/single-product/product-base.php:320
+msgid "Back to products"
+msgstr ""
+
+#: inc/woocommerce/wishlist.php:200
+msgid "Back to Shopping"
+msgstr ""
+
+#: inc/options.php:222 inc/options.php:3378
+msgid "Back To Top"
+msgstr ""
+
+#: inc/woocommerce/admin/customizer.php:967
+#: inc/woocommerce/admin/customizer.php:1034
+#: inc/woocommerce/admin/customizer.php:1088
+#: inc/woocommerce/admin/customizer.php:1142
+#: inc/woocommerce/admin/customizer.php:1196
+#: inc/woocommerce/admin/customizer.php:1245
+msgid "Background"
+msgstr ""
+
+#: inc/options.php:612 inc/options.php:653 inc/options.php:843
+#: inc/options.php:1347 inc/options.php:2012 inc/options.php:2067
+#: inc/options.php:2122 inc/options.php:2314 inc/options.php:4171
+#: inc/options.php:4230
+msgid "Background Color"
+msgstr ""
+
+#: inc/options.php:622 inc/options.php:663 inc/options.php:709
+#: inc/options.php:743
+msgid "Background Color Hover"
+msgstr ""
+
+#: inc/options.php:2994 inc/options.php:3492
+#: inc/woocommerce/admin/customizer.php:1339
+msgid "Background Image"
+msgstr ""
+
+#: inc/options.php:3006 inc/options.php:3504
+#: inc/woocommerce/admin/customizer.php:1351
+msgid "Background Overlay"
+msgstr ""
+
+#: inc/woocommerce/admin/customizer.php:269
+msgid "Badge"
+msgstr ""
+
+#: inc/woocommerce/admin/customizer.php:184
+#: inc/woocommerce/admin/customizer.php:201
+#: inc/woocommerce/admin/product-settings.php:108
+msgid "Badges"
+msgstr ""
+
+#: inc/options.php:508
+msgid "Base Color"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:56
+#, php-format
+msgid "Based on %s review"
+msgid_plural "Based on %s reviews"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/admin/plugin-install.php:150
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/woocommerce/admin/customizer.php:2051
+msgid "Below the add to cart"
+msgstr ""
+
+#: inc/woocommerce/admin/customizer.php:2050
+msgid "Below the description"
+msgstr ""
+
+#: inc/options.php:2789
+msgid "Best Selling Products"
+msgstr ""
+
+#: inc/options.php:2659
+msgid "Best selling products"
+msgstr ""
+
+#: inc/breadcrumb.php:119 inc/options.php:191 inc/options.php:251
+msgid "Blog"
+msgstr ""
+
+#: inc/options.php:325
+msgid "Blog Header"
+msgstr ""
+
+#: inc/options.php:1129
+msgid "Blog Header Title"
+msgstr ""
+
+#: inc/options.php:329
+msgid "Blog Page"
+msgstr ""
+
+#: inc/options.php:1151
+msgid "Blog Post Title"
+msgstr ""
+
+#: inc/theme.php:199
+msgid "Blog Sidebar"
+msgstr ""
+
+#: inc/options.php:333
+msgid "Blog Single"
+msgstr ""
+
+#: inc/options.php:868
+msgid "Body"
+msgstr ""
+
+#: inc/options.php:1497
+msgid "Border"
+msgstr ""
+
+#: inc/options.php:694 inc/options.php:728 inc/options.php:853
+#: inc/options.php:1415 inc/options.php:2038 inc/options.php:2093
+#: inc/options.php:4201 inc/options.php:4260
+msgid "Border Color"
+msgstr ""
+
+#: inc/options.php:704 inc/options.php:738 inc/options.php:858
+msgid "Border Color Hover"
+msgstr ""
+
+#: inc/options.php:1926 inc/options.php:3891
+msgid "Both"
+msgstr ""
+
+#: inc/woocommerce/admin/customizer.php:1918
+msgid "Bottom thumbnails"
+msgstr ""
+
+#: inc/options.php:2049 inc/options.php:2104 inc/options.php:4212
+#: inc/options.php:4271
+msgid "Box Shadow Color"
+msgstr ""
+
+#: inc/woocommerce/admin/customizer.php:675
+#: inc/woocommerce/admin/customizer.php:1761
+msgid "Brand"
+msgstr ""
+
+#: inc/options.php:2951 inc/options.php:3277 inc/options.php:3450
+#: inc/woocommerce/admin/customizer.php:1296
+msgid "BreadCrumb"
+msgstr ""
+
+#: inc/options.php:3076 inc/options.php:3574
+#: inc/woocommerce/admin/customizer.php:1421
+msgid "Breadcrumb Color"
+msgstr ""
+
+#: inc/options.php:3052 inc/options.php:3550
+#: inc/woocommerce/admin/customizer.php:1397
+msgid "Breadcrumb Link Color"
+msgstr ""
+
+#: inc/options.php:3699 inc/options.php:3738
+msgid "Breakpoint (px)"
+msgstr ""
+
+#: inc/options.php:1519 inc/options.php:3758
+msgid "Build my own"
+msgstr ""
+
+#: inc/options.php:2557
+msgid "Built-in Icon"
+msgstr ""
+
+#: inc/options.php:214
+msgid "Buttons"
+msgstr ""
+
+#: woocommerce/single-product/add-to-cart/grouped.php:87
+msgid "Buy one of this item"
+msgstr ""
+
+#: inc/vendors/dokan.php:173 inc/vendors/wcfm.php:159
+msgid "By"
+msgstr ""
+
+#: inc/woocommerce/admin/customizer.php:821
+#: inc/woocommerce/admin/customizer.php:859
+#: inc/woocommerce/admin/customizer.php:1904
+msgid "By - Vendor Name"
+msgstr ""
+
+#: inc/woocommerce/admin/customizer.php:2302
+msgid "By Categories"
+msgstr ""
+
+#: inc/woocommerce/admin/customizer.php:2314
+msgid "By Tags"
+msgstr ""
+
+#: inc/woocommerce/admin/customizer.php:776
+msgid "By the Theme"
+msgstr ""
+
+#: inc/woocommerce/admin/customizer.php:777
+msgid "By Variation Swatches plugin"
+msgstr ""
+
+#: inc/options.php:2219
+msgid "Campaign"
+msgstr ""
+
+#: inc/options.php:2302
+msgid "Campaign Background"
+msgstr ""
+
+#: inc/options.php:264 inc/options.php:2151
+msgid "Campaign Bar"
+msgstr ""
+
+#: template-parts/header/campaign-bar.php:11
+msgid "Campaign Bar Close"
+msgstr ""
+
+#: inc/header/campaign-bar.php:130
+msgid "Campaign Image"
+msgstr ""
+
+#: inc/options.php:2216
+msgid "Campaign Items"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:82
+#: woocommerce/single-product-reviews.php:88
+#: woocommerce/single-product-reviews.php:109
+msgid "Cancel review"
+msgstr ""
+
+#: inc/options.php:2679
+msgid "Carousel"
+msgstr ""
+
+#: inc/options.php:131 inc/options.php:148 inc/options.php:304
+#: template-parts/header/cart.php:30
+msgid "Cart"
+msgstr ""
+
+#: inc/options.php:2554
+msgid "Cart Icon"
+msgstr ""
+
+#: inc/woocommerce/admin/customizer.php:109
+msgid "Cart Page"
+msgstr ""
+
+#: inc/theme.php:200
+msgid "Catalog Filters Sidebar"
+msgstr ""
+
+#: inc/woocommerce/admin/customizer.php:152
+#: inc/woocommerce/admin/customizer.php:1682
+msgid "Catalog Toolbar"
+msgstr ""
+
+#: template-parts/panels/hamburger.php:27
+msgid "Categories"
+msgstr ""
+
+#: inc/woocommerce/admin/customizer.php:674
+#: inc/woocommerce/admin/customizer.php:1759
+msgid "Category"
+msgstr ""
+
+#: inc/woocommerce/admin/customizer.php:1569
+msgid "Category ID"
+msgstr ""
+
+#: inc/options.php:2844 inc/options.php:2882 inc/theme.php:173
+msgid "Category Menu"
+msgstr ""
+
+#: inc/woocommerce/admin/customizer.php:1568
+msgid "Category Name"
+msgstr ""
+
+#: inc/woocommerce/admin/customizer.php:1567
+msgid "Category Order"
+msgstr ""
+
+#: inc/woocommerce/admin/customizer.php:448
+msgid "Category Product Banner Fallback"
+msgstr ""
+
+#: inc/woocommerce/admin/customizer.php:741
+#: inc/woocommerce/admin/customizer.php:1665
+msgid "Center"
+msgstr ""
+
+#: inc/options.php:1660 inc/options.php:1796 inc/options.php:4005
+#: inc/options.php:4102
+msgid "Center Items"
+msgstr ""
+
+#: inc/options.php:3258 inc/woocommerce/admin/customizer.php:425
+msgid "Change the URL after page loaded"
+msgstr ""
+
+#: inc/woocommerce/admin/product-settings.php:240
+msgid "Change to:"
+msgstr ""
+
+#: inc/woocommerce/admin/customizer.php:2576
+msgid ""
+"Check this option to display the order information box below the cart totals "
+"in the cart page"
+msgstr ""
+
+#: inc/woocommerce/admin/customizer.php:2599
+msgid ""
+"Check this option to display the order information box below the cart totals "
+"in the checkout page"
+msgstr ""
+
+#: inc/woocommerce/admin/customizer.php:2532
+msgid ""
+"Check this option to display the service highlight below the cart content in "
+"the cart page"
+msgstr ""
+
+#: inc/woocommerce/admin/customizer.php:2468
+msgid "Check this option to update cart page automatically"
+msgstr ""
+
+#: inc/options.php:3379
+msgid "Check this to show back to top."
+msgstr ""
+
+#: inc/woocommerce/cart/mini-cart.php:245
+msgid "Checkout"
+msgstr ""
+
+#: inc/woocommerce/admin/customizer.php:449
+msgid "Choose what happens if the category has no product banner."
+msgstr ""
+
+#: inc/options.php:579 inc/options.php:819
+#: inc/woocommerce/admin/customizer.php:2456
+msgid "Circle"
+msgstr ""
+
+#: woocommerce/content-product-quickedit.php:65
+msgid "Clear"
+msgstr ""
+
+#: inc/woocommerce/catalog/products-grid.php:81
+msgid "Clear all"
+msgstr ""
+
+#: woocommerce/content-product-quickedit.php:65
+msgid "Clear options"
+msgstr ""
+
+#: inc/woocommerce/admin/customizer.php:1882
+msgid "Clickable Out of Stock Variations"
+msgstr ""
+
+#: inc/woocommerce/cart/mini-cart.php:286
+#: inc/woocommerce/cart/mini-cart.php:312
+#: inc/woocommerce/cart/mini-cart.php:332
+msgid "Close"
+msgstr ""
+
+#: inc/woocommerce/admin/customizer.php:2211
+msgid "Close all tabs"
+msgstr ""
+
+#: inc/options.php:617 inc/options.php:658 inc/options.php:699
+#: inc/options.php:733 inc/options.php:784 inc/options.php:803
+#: inc/options.php:848 inc/options.php:1367 inc/options.php:2134
+#: inc/options.php:2334 inc/woocommerce/admin/customizer.php:1258
+msgid "Color"
+msgstr ""
+
+#: inc/options.php:639 inc/options.php:680 inc/options.php:714
+#: inc/options.php:770 inc/options.php:789 inc/options.php:808
+msgid "Color Hover"
+msgstr ""
+
+#: inc/options.php:206
+msgid "Color Scheme"
+msgstr ""
+
+#: inc/woocommerce/admin/customizer.php:1582
+#: inc/woocommerce/admin/customizer.php:2260
+#: inc/woocommerce/admin/customizer.php:2341
+#: inc/woocommerce/admin/customizer.php:2410
+#: inc/woocommerce/admin/customizer.php:2506
+#: inc/woocommerce/catalog/toolbar.php:184
+msgid "Columns"
+msgstr ""
+
+#: inc/maintenance.php:76 inc/options.php:410
+msgid "Coming Soon"
+msgstr ""
+
+#: inc/blog/post.php:208
+msgid "Comment"
+msgid_plural "Comments"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:57
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:35
+#, php-format
+msgctxt "comments title"
+msgid "Comment (%1$s)"
+msgid_plural "Comments (%1$s)"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/options.php:130 inc/options.php:150 inc/options.php:300
+#: inc/woocommerce/compare.php:158 inc/woocommerce/compare.php:196
+#: template-parts/header/compare.php:27
+msgid "Compare"
+msgstr ""
+
+#: inc/options.php:4510 inc/woocommerce/admin/customizer.php:598
+msgid "Compare button"
+msgstr ""
+
+#: inc/options.php:4427
+msgid "Compare Display"
+msgstr ""
+
+#: inc/woocommerce/compare.php:210
+msgid "Compare list is empty"
+msgstr ""
+
+#: inc/woocommerce/admin/customizer.php:927
+msgid "Compare Notification Auto Hide"
+msgstr ""
+
+#: inc/woocommerce/admin/customizer.php:121
+msgid "Compare Page"
+msgstr ""
+
+#: inc/woocommerce/admin/customizer.php:1816
+msgid "Contact Form"
+msgstr ""
+
+#: inc/admin/plugin-install.php:86
+msgid "Contact Form 7"
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:191 inc/woocommerce/cart/cart.php:176
+msgid "Continue Shopping"
+msgstr ""
+
+#: inc/options.php:1797
+msgid "Control items at the center of header bottom"
+msgstr ""
+
+#: inc/options.php:1661
+msgid "Control items at the center of header main"
+msgstr ""
+
+#: inc/options.php:4103
+msgid "Control items at the center of header mobile bottom"
+msgstr ""
+
+#: inc/options.php:4006
+msgid "Control items at the center of header mobile main"
+msgstr ""
+
+#: inc/options.php:1765
+msgid "Control items on the left side of header bottom"
+msgstr ""
+
+#: inc/options.php:1629
+msgid "Control items on the left side of header main"
+msgstr ""
+
+#: inc/options.php:4072
+msgid "Control items on the left side of header mobile bottom"
+msgstr ""
+
+#: inc/options.php:3975
+msgid "Control items on the left side of header mobile main"
+msgstr ""
+
+#: inc/options.php:1209
+msgid "Control items on the left side of the topbar"
+msgstr ""
+
+#: inc/options.php:1829
+msgid "Control items on the right of header bottom"
+msgstr ""
+
+#: inc/options.php:1693
+msgid "Control items on the right of header main"
+msgstr ""
+
+#: inc/options.php:4134
+msgid "Control items on the right of header mobile bottom"
+msgstr ""
+
+#: inc/options.php:4037
+msgid "Control items on the right of header mobile main"
+msgstr ""
+
+#: inc/options.php:1235
+msgid "Control items on the right side of the topbar"
+msgstr ""
+
+#: template-parts/modals/product-share.php:15
+msgid "Copy link"
+msgstr ""
+
+#: inc/options.php:550 inc/options.php:576 inc/options.php:816
+#: inc/options.php:2904
+msgid "Corner Radius"
+msgstr ""
+
+#: inc/options.php:2161
+msgid "Countdown"
+msgstr ""
+
+#: inc/woocommerce/admin/customizer.php:640
+msgid "Countdown Timer"
+msgstr ""
+
+#: inc/woocommerce/cart/mini-cart.php:307
+msgid "Coupon code"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:74
+#: woocommerce/myaccount/form-login.php:102
+#: woocommerce/myaccount/form-login.php:114
+#: woocommerce/myaccount/form-login.php:154
+#: woocommerce/myaccount/form-login.php:154
+msgid "Create Account"
+msgstr ""
+
+#: inc/woocommerce/admin/customizer.php:2482
+msgid "Cross-Sells Empty Products"
+msgstr ""
+
+#: inc/woocommerce/admin/customizer.php:2477
+msgid "Cross-Sells Products"
+msgstr ""
+
+#: inc/options.php:2664
+msgid "Cross-sells products"
+msgstr ""
+
+#: inc/options.php:109 inc/options.php:133 inc/options.php:2845
+msgid "Currency"
+msgstr ""
+
+#: inc/options.php:487 inc/options.php:555 inc/options.php:582
+#: inc/options.php:822 inc/options.php:2909 inc/options.php:2983
+#: inc/options.php:3298 inc/options.php:3481
+#: inc/woocommerce/admin/customizer.php:521
+#: inc/woocommerce/admin/customizer.php:614
+#: inc/woocommerce/admin/customizer.php:1327
+msgid "Custom"
+msgstr ""
+
+#: inc/woocommerce/admin/customizer.php:1240
+msgid "Custom Badge"
+msgstr ""
+
+#: inc/woocommerce/admin/product-settings.php:158
+msgid "Custom Badge Background"
+msgstr ""
+
+#: inc/woocommerce/admin/product-settings.php:168
+msgid "Custom Badge Color"
+msgstr ""
+
+#: inc/woocommerce/admin/product-settings.php:138
+msgid "Custom Badge Icon"
+msgstr ""
+
+#: inc/woocommerce/admin/product-settings.php:148
+msgid "Custom Badge Text"
+msgstr ""
+
+#: inc/options.php:469 inc/options.php:492
+msgid "Custom Color"
+msgstr ""
+
+#: inc/options.php:112 inc/options.php:134 inc/options.php:152
+#: inc/options.php:316 inc/options.php:1322 inc/options.php:2830
+#: inc/options.php:4454
+msgid "Custom HTML"
+msgstr ""
+
+#: inc/options.php:2843 inc/options.php:2865
+msgid "Custom Menu"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:36 inc/woocommerce/general.php:484
+msgid "Customer Reviews"
+msgstr ""
+
+#: inc/woocommerce/admin/customizer.php:648
+#: inc/woocommerce/admin/customizer.php:2178
+msgid "Customize marquee speed (Example: 0.25)"
+msgstr ""
+
+#: inc/options.php:869
+msgid "Customize the body font"
+msgstr ""
+
+#: inc/options.php:1130
+msgid "Customize the font of blog header"
+msgstr ""
+
+#: inc/options.php:1152
+msgid "Customize the font of blog post title"
+msgstr ""
+
+#: inc/woocommerce/admin/customizer.php:322
+msgid "Customize the font of page header description"
+msgstr ""
+
+#: inc/woocommerce/admin/customizer.php:300
+msgid "Customize the font of page header title"
+msgstr ""
+
+#: inc/woocommerce/admin/customizer.php:344
+#: inc/woocommerce/admin/customizer.php:370
+msgid "Customize the font of product name"
+msgstr ""
+
+#: inc/options.php:904
+msgid "Customize the Heading font"
+msgstr ""
+
+#: inc/options.php:1059
+msgid "Customize the menu font"
+msgstr ""
+
+#: inc/options.php:1104
+msgid "Customize the page title font"
+msgstr ""
+
+#: inc/options.php:1080
+msgid "Customize the sub-menu font"
+msgstr ""
+
+#: inc/woocommerce/helper.php:37
+msgid "d"
+msgstr ""
+
+#: inc/breadcrumb.php:124
+msgid "Daily:"
+msgstr ""
+
+#: inc/options.php:486
+msgid "Dark"
+msgstr ""
+
+#: inc/options.php:513
+msgid "Dark Color"
+msgstr ""
+
+#: inc/options.php:2285
+msgid "Date"
+msgstr ""
+
+#: inc/woocommerce/catalog/toolbar.php:284
+msgid "Date, new to old"
+msgstr ""
+
+#: inc/woocommerce/catalog/toolbar.php:285
+#: inc/woocommerce/catalog/toolbar.php:307
+msgid "Date, old to new"
+msgstr ""
+
+#: inc/header/campaign-bar.php:121
+#: inc/woocommerce/single-product/product-base.php:622
+msgid "day"
+msgstr ""
+
+#: inc/header/campaign-bar.php:120
+#: inc/woocommerce/single-product/product-base.php:621
+msgid "days"
+msgstr ""
+
+#: inc/options.php:751 inc/options.php:2907 inc/options.php:3296
+#: inc/options.php:4292 inc/woocommerce/admin/customizer.php:519
+#: inc/woocommerce/admin/customizer.php:611
+#: inc/woocommerce/admin/customizer.php:717
+#: inc/woocommerce/admin/customizer.php:2227
+#: inc/woocommerce/admin/customizer.php:2455
+#: inc/woocommerce/admin/product-settings.php:421
+msgid "Default"
+msgstr ""
+
+#: inc/helper.php:282
+msgid "Default Footer Global"
+msgstr ""
+
+#: inc/helper.php:283
+msgid "Default Footer Page"
+msgstr ""
+
+#: inc/woocommerce/catalog/toolbar.php:143
+msgid "Default Sorting"
+msgstr ""
+
+#: inc/woocommerce/catalog/toolbar.php:279
+msgid "Default sorting"
+msgstr ""
+
+#: inc/woocommerce/admin/customizer.php:1731
+msgid "Default View"
+msgstr ""
+
+#: inc/woocommerce/admin/category-settings.php:103
+#: inc/woocommerce/admin/category-settings.php:118
+#: inc/woocommerce/admin/category-settings.php:179
+#: inc/woocommerce/admin/category-settings.php:191
+#: inc/woocommerce/admin/category-settings.php:218
+#: inc/woocommerce/admin/category-settings.php:229
+msgid "Delete"
+msgstr ""
+
+#: inc/woocommerce/admin/category-settings.php:102
+#: inc/woocommerce/admin/category-settings.php:117
+#: inc/woocommerce/admin/category-settings.php:179
+#: inc/woocommerce/admin/category-settings.php:190
+#: inc/woocommerce/admin/category-settings.php:218
+#: inc/woocommerce/admin/category-settings.php:228
+msgid "Delete image"
+msgstr ""
+
+#: inc/options.php:2953 inc/options.php:3451
+#: inc/woocommerce/admin/customizer.php:1297
+#: inc/woocommerce/admin/customizer.php:2102
+#: inc/woocommerce/admin/customizer.php:2281
+#: inc/woocommerce/admin/customizer.php:2362
+#: inc/woocommerce/admin/customizer.php:2431
+#: inc/woocommerce/admin/customizer.php:2556
+msgid "Description"
+msgstr ""
+
+#: inc/woocommerce/admin/customizer.php:1660
+msgid "Description Alignment"
+msgstr ""
+
+#: inc/options.php:3100 inc/options.php:3598
+#: inc/woocommerce/admin/customizer.php:1445
+msgid "Description Color"
+msgstr ""
+
+#: inc/options.php:2966 inc/options.php:3464
+#: inc/woocommerce/admin/customizer.php:1310
+#: inc/woocommerce/admin/customizer.php:1648
+msgid "Description Number Lines"
+msgstr ""
+
+#: inc/options.php:3404
+msgid "Digg"
+msgstr ""
+
+#: inc/woocommerce/compare.php:266 inc/woocommerce/admin/customizer.php:276
+msgid "Dimensions"
+msgstr ""
+
+#: inc/options.php:599
+msgid "Disable Hover Effect"
+msgstr ""
+
+#: inc/woocommerce/admin/customizer.php:567
+msgid "Disable this setting to return to the default button"
+msgstr ""
+
+#: inc/options.php:2622
+msgid "Display"
+msgstr ""
+
+#: inc/woocommerce/admin/customizer.php:1990
+msgid "Display a badge for featured product."
+msgstr ""
+
+#: inc/woocommerce/admin/customizer.php:1083
+msgid "Display a badge for featured products."
+msgstr ""
+
+#: inc/woocommerce/admin/customizer.php:1980
+msgid "Display a badge for new product."
+msgstr ""
+
+#: inc/woocommerce/admin/customizer.php:1016
+msgid "Display a badge for new products."
+msgstr ""
+
+#: inc/woocommerce/admin/customizer.php:1137
+msgid "Display a badge for out of stock products."
+msgstr ""
+
+#: inc/woocommerce/admin/customizer.php:2010
+msgid "Display a badge for preorder product."
+msgstr ""
+
+#: inc/woocommerce/admin/customizer.php:1191
+msgid "Display a badge for preorder products."
+msgstr ""
+
+#: inc/woocommerce/admin/customizer.php:946
+#: inc/woocommerce/admin/customizer.php:1954
+msgid "Display a badge for sale products."
+msgstr ""
+
+#: inc/woocommerce/admin/customizer.php:2000
+msgid "Display a badge for stock product."
+msgstr ""
+
+#: inc/options.php:2152
+msgid "Display a bar before the site header."
+msgstr ""
+
+#: inc/options.php:1177
+msgid "Display a bar on the top"
+msgstr ""
+
+#: inc/options.php:2742
+msgid "Display a list of links in the search modal"
+msgstr ""
+
+#: inc/woocommerce/admin/customizer.php:880
+msgid "Display a notification when a product is added to cart."
+msgstr ""
+
+#: inc/woocommerce/admin/customizer.php:920
+msgid "Display a notification when a product is added to compare"
+msgstr ""
+
+#: inc/woocommerce/admin/customizer.php:894
+msgid "Display a notification when a product is added to wishlist"
+msgstr ""
+
+#: inc/options.php:2777
+msgid "Display a products list before searching"
+msgstr ""
+
+#: inc/options.php:2655
+msgid "Display recommended products on the mini cart"
+msgstr ""
+
+#: inc/options.php:3359
+msgid "Display related posts"
+msgstr ""
+
+#: inc/woocommerce/admin/customizer.php:1021
+msgid "Display the \"New\" badge for how many days?"
+msgstr ""
+
+#: inc/options.php:3349
+msgid "Display the next and previous posts"
+msgstr ""
+
+#: inc/options.php:3694
+msgid "Display topbar on mobile"
+msgstr ""
+
+#: inc/woocommerce/admin/customizer.php:1606
+msgid "Div"
+msgstr ""
+
+#: inc/options.php:1747 inc/options.php:1883
+msgid "Divider"
+msgstr ""
+
+#: inc/woocommerce/admin/customizer.php:452
+msgid "Do not display banner"
+msgstr ""
+
+#: inc/blog/comments.php:193
+msgid "Edit"
+msgstr ""
+
+#: template-parts/modals/quick-edit.php:18
+msgid "Edit Option"
+msgstr ""
+
+#: inc/options.php:748
+msgid "Effect Background Color"
+msgstr ""
+
+#: inc/options.php:627 inc/options.php:668 inc/options.php:758
+msgid "Effect Background Color Hover"
+msgstr ""
+
+#: inc/admin/plugin-install.php:70
+msgid "Elementor Page Builder"
+msgstr ""
+
+#: inc/options.php:2948 inc/options.php:3446
+#: inc/woocommerce/admin/customizer.php:1292
+#: inc/woocommerce/admin/customizer.php:1691
+msgid "Elements"
+msgstr ""
+
+#: inc/options.php:3408
+msgid "Email"
+msgstr ""
+
+#: inc/options.php:2932
+msgid "Enable Blog Header"
+msgstr ""
+
+#: inc/options.php:3288
+msgid "Enable featured image."
+msgstr ""
+
+#: inc/woocommerce/admin/customizer.php:782
+msgid "Enable Image Swap on Hover"
+msgstr ""
+
+#: inc/options.php:398
+msgid "Enable Maintenance Mode"
+msgstr ""
+
+#: inc/options.php:3430 inc/woocommerce/admin/customizer.php:1276
+msgid "Enable Page Header"
+msgstr ""
+
+#: inc/options.php:3343
+msgid "Enable post sharing."
+msgstr ""
+
+#: inc/woocommerce/admin/customizer.php:837
+msgid "Enable Style From Theme"
+msgstr ""
+
+#: inc/woocommerce/admin/customizer.php:838
+msgid "Enable the store list and store page style from theme."
+msgstr ""
+
+#: inc/woocommerce/admin/customizer.php:1636
+msgid "Enable this option to allow HTML in the Taxonomy Description"
+msgstr ""
+
+#: inc/options.php:2822
+msgid "Enable this option to display the category sidebar on desktop screens."
+msgstr ""
+
+#: inc/woocommerce/admin/customizer.php:443
+msgid ""
+"Enable this option to display the product banner on the first page of the "
+"product grid loop on the shop page"
+msgstr ""
+
+#: inc/options.php:894
+msgid "Enable this option to load Instrument Sans Font"
+msgstr ""
+
+#: inc/woocommerce/admin/customizer.php:1630
+msgid "Enable this option to show the taxonomy description below the products"
+msgstr ""
+
+#: inc/woocommerce/admin/customizer.php:2020
+msgid "Enable this option to show this section below the product meta"
+msgstr ""
+
+#: inc/woocommerce/admin/customizer.php:2042
+msgid ""
+"Enable this option to show this section(like delivery times, discount codes.."
+".) below the product description"
+msgstr ""
+
+#: inc/woocommerce/admin/customizer.php:2120
+msgid ""
+"Enable this option to show this section(like free returns and delivery "
+"options) below the product gallery"
+msgstr ""
+
+#: inc/woocommerce/admin/product-settings.php:128
+msgid ""
+"Enable to set this product as a new product. A \"New\" badge will be added "
+"to this product."
+msgstr ""
+
+#: inc/options.php:2933
+msgid "Enable to show a blog header for the page below the site header"
+msgstr ""
+
+#: inc/options.php:3431
+msgid "Enable to show a page header for the page below the site header"
+msgstr ""
+
+#: inc/woocommerce/admin/customizer.php:1277
+msgid "Enable to show a shop header for the shop below the site header"
+msgstr ""
+
+#: inc/woocommerce/admin/customizer.php:1552
+msgid ""
+"Enter 0 to get all categories. Enter a number to get limit number of top "
+"categories."
+msgstr ""
+
+#: inc/woocommerce/admin/product-settings.php:150
+msgid "Enter this optional to show your badges."
+msgstr ""
+
+#: inc/woocommerce/admin/product-settings.php:221
+msgid ""
+"Enter units of measure for product quantities (e.g., \"pieces,\" \"kg\"), "
+"displayed after the product price."
+msgstr ""
+
+#: inc/woocommerce/checkout.php:145
+msgid "Enter your code"
+msgstr ""
+
+#: inc/woocommerce/login.php:107
+msgid "Error:"
+msgstr ""
+
+#: inc/woocommerce/cart/mini-cart.php:260
+msgid "Estimate"
+msgstr ""
+
+#: inc/woocommerce/cart/mini-cart.php:326
+msgid "Estimate Shipping"
+msgstr ""
+
+#: inc/woocommerce/admin/customizer.php:1931
+msgid "External zoom"
+msgstr ""
+
+#: inc/options.php:3396
+msgid "Facebook"
+msgstr ""
+
+#: inc/woocommerce/admin/customizer.php:556
+msgid "Fadein"
+msgstr ""
+
+#: inc/woocommerce/admin/customizer.php:1082
+#: inc/woocommerce/admin/customizer.php:1989
+msgid "Featured Badge"
+msgstr ""
+
+#: inc/woocommerce/admin/customizer.php:608
+msgid "Featured Button Corner Radius"
+msgstr ""
+
+#: inc/options.php:3287
+msgid "Featured Image"
+msgstr ""
+
+#: inc/options.php:3293
+msgid "Featured Image Corner Radius"
+msgstr ""
+
+#: inc/options.php:2787 inc/woocommerce/admin/customizer.php:2489
+msgid "Featured Products"
+msgstr ""
+
+#: inc/options.php:2660
+msgid "Featured products"
+msgstr ""
+
+#: template-parts/panels/filter-sidebar.php:19
+#: inc/woocommerce/catalog/sidebar.php:99
+#: inc/woocommerce/catalog/toolbar.php:245
+msgid "Filter"
+msgstr ""
+
+#: inc/woocommerce/admin/customizer.php:641
+msgid "Flash Sale Marquee"
+msgstr ""
+
+#: inc/options.php:227
+msgid "Font Family"
+msgstr ""
+
+#: inc/options.php:2692
+msgid "Form"
+msgstr ""
+
+#: inc/options.php:218
+msgid "Form Fields"
+msgstr ""
+
+#: inc/options.php:171
+msgid "General"
+msgstr ""
+
+#. Name of the theme
+msgid "Glozin"
+msgstr ""
+
+#: inc/admin/plugin-install.php:77
+msgid "Glozin Addons"
+msgstr ""
+
+#: inc/options.php:4648
+msgid "Glozin Custom Fonts"
+msgstr ""
+
+#: inc/admin/plugin-install.php:121
+msgid "Glozin Demo Importer"
+msgstr ""
+
+#: inc/woocommerce/admin/customizer.php:396
+msgid ""
+"Go to appearance > widgets find to catalog filters sidebar to edit your "
+"sidebar"
+msgstr ""
+
+#: inc/options.php:3398
+msgid "Google Plus"
+msgstr ""
+
+#: inc/options.php:3199 inc/woocommerce/admin/customizer.php:1735
+#: inc/woocommerce/admin/customizer.php:2067
+msgid "Grid"
+msgstr ""
+
+#: inc/woocommerce/admin/customizer.php:1919
+msgid "Grid 1"
+msgstr ""
+
+#: inc/woocommerce/admin/customizer.php:1920
+msgid "Grid 2"
+msgstr ""
+
+#: inc/woocommerce/admin/customizer.php:1711
+msgid "Grid 2 Columns"
+msgstr ""
+
+#: inc/woocommerce/admin/customizer.php:1712
+msgid "Grid 3 Columns"
+msgstr ""
+
+#: inc/woocommerce/admin/customizer.php:1713
+msgid "Grid 4 Columns"
+msgstr ""
+
+#: inc/options.php:3205
+msgid "Grid Columns"
+msgstr ""
+
+#: inc/woocommerce/admin/customizer.php:213
+#: inc/woocommerce/admin/customizer.php:2019
+msgid "Guarantee Safe Checkout"
+msgstr ""
+
+#: inc/woocommerce/helper.php:38
+msgid "h"
+msgstr ""
+
+#: inc/woocommerce/admin/customizer.php:1607
+msgid "H2"
+msgstr ""
+
+#: inc/woocommerce/admin/customizer.php:1608
+msgid "H3"
+msgstr ""
+
+#: inc/woocommerce/admin/customizer.php:1609
+msgid "H4"
+msgstr ""
+
+#: inc/woocommerce/admin/customizer.php:1610
+msgid "H5"
+msgstr ""
+
+#: inc/woocommerce/admin/customizer.php:1611
+msgid "H6"
+msgstr ""
+
+#: inc/options.php:146
+msgid "Hamburger"
+msgstr ""
+
+#: inc/options.php:4373
+msgid "Hamburger Menu Text"
+msgstr ""
+
+#: inc/woocommerce/product-notices.php:85
+msgid "has been added to your compare."
+msgstr ""
+
+#: inc/woocommerce/product-notices.php:73
+msgid "has been added to your wishlist."
+msgstr ""
+
+#: inc/woocommerce/checkout.php:145
+msgid "Have a coupon?"
+msgstr ""
+
+#: inc/woocommerce/cart/cart.php:205
+msgid "Have an account?"
+msgstr ""
+
+#: inc/woocommerce/product-notices.php:86
+msgid "have been added to your compare."
+msgstr ""
+
+#: inc/woocommerce/product-notices.php:74
+msgid "have been added to your wishlist."
+msgstr ""
+
+#: inc/options.php:183
+msgid "Header"
+msgstr ""
+
+#: inc/options.php:1576 inc/options.php:3775
+msgid "Header Account"
+msgstr ""
+
+#: inc/options.php:284 inc/options.php:371
+msgid "Header Background"
+msgstr ""
+
+#: inc/options.php:276 inc/options.php:359 inc/options.php:1925
+#: inc/options.php:2063 inc/options.php:3890 inc/options.php:4226
+msgid "Header Bottom"
+msgstr ""
+
+#: inc/options.php:1976 inc/options.php:3853 inc/options.php:3941
+msgid "Header Bottom Height"
+msgstr ""
+
+#: inc/options.php:1612 inc/options.php:3811
+msgid "Header Cart"
+msgstr ""
+
+#: inc/options.php:1600 inc/options.php:3799
+msgid "Header Compare"
+msgstr ""
+
+#: inc/options.php:2118
+msgid "Header Counter"
+msgstr ""
+
+#: inc/options.php:1552
+msgid "Header Currency"
+msgstr ""
+
+#: inc/options.php:363
+msgid "Header Elements"
+msgstr ""
+
+#: inc/options.php:1543
+msgid "Header Full Width"
+msgstr ""
+
+#: template-parts/header/hamburger.php:10
+msgid "Header Hamburger"
+msgstr ""
+
+#: inc/options.php:268 inc/options.php:351
+msgid "Header Layout"
+msgstr ""
+
+#: inc/options.php:239
+msgid "Header Logo Text"
+msgstr ""
+
+#: inc/options.php:272 inc/options.php:355 inc/options.php:1924
+#: inc/options.php:2008 inc/options.php:3889 inc/options.php:4167
+msgid "Header Main"
+msgstr ""
+
+#: inc/options.php:1942 inc/options.php:3832 inc/options.php:3907
+msgid "Header Main Height"
+msgstr ""
+
+#: inc/options.php:375
+msgid "Header Mobile Menu"
+msgstr ""
+
+#: inc/options.php:243
+msgid "Header Primary Menu"
+msgstr ""
+
+#: inc/options.php:1564 inc/options.php:3763
+msgid "Header Search"
+msgstr ""
+
+#: inc/options.php:1528
+msgid "Header V1"
+msgstr ""
+
+#: inc/options.php:1529
+msgid "Header V2"
+msgstr ""
+
+#: inc/options.php:1530
+msgid "Header V3"
+msgstr ""
+
+#: inc/options.php:1531
+msgid "Header V4"
+msgstr ""
+
+#: inc/options.php:1588 inc/options.php:3787
+msgid "Header Wishlist"
+msgstr ""
+
+#: inc/options.php:903
+msgid "Heading"
+msgstr ""
+
+#: inc/options.php:928
+msgid "Heading 1"
+msgstr ""
+
+#: inc/options.php:946
+msgid "Heading 2"
+msgstr ""
+
+#: inc/options.php:964
+msgid "Heading 3"
+msgstr ""
+
+#: inc/options.php:982
+msgid "Heading 4"
+msgstr ""
+
+#: inc/options.php:1000
+msgid "Heading 5"
+msgstr ""
+
+#: inc/options.php:1018
+msgid "Heading 6"
+msgstr ""
+
+#: inc/options.php:235
+msgid "Headings"
+msgstr ""
+
+#: inc/options.php:1452 inc/options.php:1729 inc/options.php:1865
+msgid "Height"
+msgstr ""
+
+#: inc/woocommerce/admin/customizer.php:1922
+msgid "Hidden thumbnails"
+msgstr ""
+
+#: inc/woocommerce/admin/customizer.php:689
+msgid "Hide Empty Rating"
+msgstr ""
+
+#: inc/breadcrumb.php:117
+msgid "Home"
+msgstr ""
+
+#: inc/woocommerce/admin/customizer.php:401
+msgid "Horizontal"
+msgstr ""
+
+#: inc/woocommerce/badges.php:165 inc/woocommerce/badges.php:204
+msgid "Hot"
+msgstr ""
+
+#: inc/woocommerce/badges.php:274
+#, php-format
+msgid "Hot Sale %d%% Off"
+msgstr ""
+
+#: inc/header/campaign-bar.php:123
+#: inc/woocommerce/single-product/product-base.php:624
+msgid "hour"
+msgstr ""
+
+#: inc/header/campaign-bar.php:122
+#: inc/woocommerce/single-product/product-base.php:623
+msgid "hours"
+msgstr ""
+
+#: inc/options.php:1391 inc/options.php:2358
+msgid "Hover Color"
+msgstr ""
+
+#: inc/woocommerce/cart/mini-cart.php:282
+msgid "How can we help you?"
+msgstr ""
+
+#: inc/woocommerce/admin/customizer.php:902
+#: inc/woocommerce/admin/customizer.php:928
+msgid "How many seconds you want to hide the notification."
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://uix.store"
+msgstr ""
+
+#. URI of the theme
+msgid "https://wpglozin.com/"
+msgstr ""
+
+#: inc/woocommerce/single-product/product-base.php:631
+msgid "Hurry Up! Sale ends in:"
+msgstr ""
+
+#: template-parts/header/search-form.php:15 template-parts/modals/search.php:41
+msgid "I'm looking for…"
+msgstr ""
+
+#: inc/options.php:2691 inc/woocommerce/admin/customizer.php:2547
+msgid "Icon"
+msgstr ""
+
+#: inc/options.php:2482 inc/options.php:2626 inc/options.php:4404
+#: inc/options.php:4431
+msgid "Icon & Text"
+msgstr ""
+
+#: inc/options.php:2896
+msgid "Icon click"
+msgstr ""
+
+#: inc/options.php:2481 inc/options.php:2625 inc/options.php:4403
+#: inc/options.php:4430
+msgid "Icon Only"
+msgstr ""
+
+#: inc/options.php:2494 inc/options.php:2514 inc/options.php:2534
+#: inc/options.php:2638
+msgid "Icon Size"
+msgstr ""
+
+#: inc/options.php:2581
+msgid "Icon SVG code"
+msgstr ""
+
+#: inc/woocommerce/admin/customizer.php:2483
+msgid ""
+"If cross-sells are empty, the display style for the product will be selected."
+msgstr ""
+
+#: inc/options.php:406
+#, php-format
+msgid ""
+"If you are putting your site into maintenance mode for a longer perior of "
+"time, you should set this to \"Coming Soon\". Maintenance will return HTTP "
+"503, Comming Soon will set HTTP to 200. <a href=\"%s\" target=\"_blank\">"
+"Learn more</a>"
+msgstr ""
+
+#: inc/options.php:2389 inc/options.php:4293
+#: inc/woocommerce/admin/customizer.php:488
+#: inc/woocommerce/admin/customizer.php:2098
+#: inc/woocommerce/admin/customizer.php:2125
+msgid "Image"
+msgstr ""
+
+#: inc/options.php:2244
+msgid "Image Before Text"
+msgstr ""
+
+#: inc/woocommerce/admin/customizer.php:516
+msgid "Image Corner Radius"
+msgstr ""
+
+#: inc/woocommerce/admin/customizer.php:2136
+msgid "Image Dimension"
+msgstr ""
+
+#: inc/options.php:210
+msgid "Images"
+msgstr ""
+
+#: inc/woocommerce/badges.php:216
+msgid "In Stock"
+msgstr ""
+
+#: inc/woocommerce/general.php:645
+msgid "In stock"
+msgstr ""
+
+#: inc/options.php:3252 inc/woocommerce/admin/customizer.php:418
+msgid "Infinite Scroll"
+msgstr ""
+
+#: inc/woocommerce/admin/customizer.php:1933
+msgid "Inner zoom circle"
+msgstr ""
+
+#: inc/woocommerce/admin/customizer.php:1932
+msgid "Inner zoom square"
+msgstr ""
+
+#: inc/woocommerce/admin/customizer.php:2025
+msgid "Insert HTML"
+msgstr ""
+
+#: inc/options.php:3409
+msgid "Instagram"
+msgstr ""
+
+#: inc/admin/plugin-install.php:139
+msgid "Install Plugins"
+msgstr ""
+
+#: inc/admin/plugin-install.php:138
+msgid "Install Required Plugins"
+msgstr ""
+
+#: inc/admin/plugin-install.php:140
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: inc/options.php:893
+msgid "Instrument Sans Font"
+msgstr ""
+
+#: inc/woocommerce/cart/quick-edit.php:84
+#: inc/woocommerce/cart/quick-edit.php:93
+#: inc/woocommerce/loop/quick-view.php:119
+msgid "Invalid product."
+msgstr ""
+
+#: template-parts/content/content-none.php:47
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: inc/options.php:1214 inc/options.php:1240 inc/options.php:1634
+#: inc/options.php:1666 inc/options.php:1698 inc/options.php:1770
+#: inc/options.php:1802 inc/options.php:1834 inc/options.php:3980
+#: inc/options.php:4011 inc/options.php:4042 inc/options.php:4077
+#: inc/options.php:4108 inc/options.php:4139
+#: inc/woocommerce/admin/customizer.php:2092
+#: inc/woocommerce/admin/customizer.php:2159
+#: inc/woocommerce/admin/customizer.php:2541
+msgid "Item"
+msgstr ""
+
+#: inc/woocommerce/admin/customizer.php:2156
+msgid "Items"
+msgstr ""
+
+#: inc/options.php:3722
+msgid "Keep all items"
+msgstr ""
+
+#: inc/options.php:3720
+msgid "Keep left items"
+msgstr ""
+
+#: inc/options.php:3721
+msgid "Keep right items"
+msgstr ""
+
+#: inc/woocommerce/admin/customizer.php:2452
+msgid "Label Swatches Shape"
+msgstr ""
+
+#: inc/options.php:108 inc/options.php:132 inc/options.php:2846
+#: inc/woocommerce/language.php:103
+msgid "Language"
+msgstr ""
+
+#: inc/options.php:2498 inc/options.php:2518 inc/options.php:2538
+#: inc/options.php:2642
+msgid "Large"
+msgstr ""
+
+#: inc/options.php:2688 inc/options.php:3196
+#: inc/woocommerce/admin/customizer.php:1914
+#: inc/woocommerce/admin/customizer.php:2199
+msgid "Layout"
+msgstr ""
+
+#: inc/woocommerce/admin/customizer.php:545
+#: inc/woocommerce/admin/customizer.php:1796
+#: inc/woocommerce/admin/customizer.php:1872
+msgid "Layout v1"
+msgstr ""
+
+#: inc/woocommerce/admin/customizer.php:546
+#: inc/woocommerce/admin/customizer.php:1797
+#: inc/woocommerce/admin/customizer.php:1873
+msgid "Layout v2"
+msgstr ""
+
+#: inc/blog/comments.php:58
+msgid "Leave a Comment"
+msgstr ""
+
+#: inc/woocommerce/admin/customizer.php:740
+#: inc/woocommerce/admin/customizer.php:1664
+msgid "Left"
+msgstr ""
+
+#: inc/options.php:1208 inc/options.php:1628 inc/options.php:1764
+#: inc/options.php:3974 inc/options.php:4071
+msgid "Left Items"
+msgstr ""
+
+#: inc/options.php:3226 inc/options.php:3337
+#: inc/woocommerce/admin/customizer.php:400
+msgid "Left Sidebar"
+msgstr ""
+
+#: inc/woocommerce/admin/customizer.php:1917
+msgid "Left thumbnails"
+msgstr ""
+
+#: inc/options.php:485
+msgid "Light"
+msgstr ""
+
+#: inc/woocommerce/admin/customizer.php:1943
+msgid "Lightbox"
+msgstr ""
+
+#: inc/options.php:2803 inc/woocommerce/admin/customizer.php:1551
+msgid "Limit"
+msgstr ""
+
+#: inc/woocommerce/admin/customizer.php:792
+msgid "Lines of short description in product list and catalog page"
+msgstr ""
+
+#: inc/options.php:2754 inc/woocommerce/admin/customizer.php:500
+msgid "Link"
+msgstr ""
+
+#: inc/options.php:518
+msgid "Link Color"
+msgstr ""
+
+#: inc/woocommerce/catalog/product-grid-banner.php:95
+#: inc/woocommerce/catalog/toolbar.php:201
+#: inc/woocommerce/catalog/top-categories.php:147
+msgid "Link for"
+msgstr ""
+
+#: inc/options.php:523
+msgid "Link Hover Color"
+msgstr ""
+
+#: inc/options.php:3402
+msgid "Linkedin"
+msgstr ""
+
+#: inc/options.php:2748
+msgid "Links"
+msgstr ""
+
+#: inc/options.php:3200 inc/woocommerce/admin/customizer.php:1714
+#: inc/woocommerce/admin/customizer.php:1734
+#: inc/woocommerce/admin/customizer.php:2066
+#: inc/woocommerce/catalog/toolbar.php:197
+msgid "List"
+msgstr ""
+
+#: inc/options.php:3253 inc/woocommerce/admin/customizer.php:419
+msgid "Load More"
+msgstr ""
+
+#: inc/blog/archive.php:222 inc/woocommerce/catalog/pagination.php:104
+msgid "Load more"
+msgstr ""
+
+#: inc/woocommerce/admin/customizer.php:2383
+msgid "Load With Ajax"
+msgstr ""
+
+#: inc/woocommerce/cart/cart.php:206
+msgid "Log in"
+msgstr ""
+
+#: inc/header/main.php:600 inc/woocommerce/my-account.php:80
+msgid "Login"
+msgstr ""
+
+#: inc/options.php:124 inc/options.php:145 inc/options.php:288
+#: inc/options.php:2426 inc/options.php:4330
+msgid "Logo"
+msgstr ""
+
+#: inc/options.php:2450 inc/options.php:4354
+msgid "Logo Dimension"
+msgstr ""
+
+#: inc/options.php:1036
+msgid "Logo Font"
+msgstr ""
+
+#: inc/options.php:2438 inc/options.php:4342
+msgid "Logo Light"
+msgstr ""
+
+#: inc/options.php:2408 inc/options.php:4312
+msgid "Logo SVG"
+msgstr ""
+
+#: inc/options.php:2396 inc/options.php:4300
+msgid "Logo Text"
+msgstr ""
+
+#: inc/options.php:2386 inc/options.php:4289
+msgid "Logo Type"
+msgstr ""
+
+#: template-parts/panels/account.php:43
+msgid "Logout"
+msgstr ""
+
+#: inc/woocommerce/my-account.php:73
+msgid "Lost Password"
+msgstr ""
+
+#: inc/woocommerce/helper.php:39
+msgid "m"
+msgstr ""
+
+#: inc/admin/plugin-install.php:93
+msgid "MailChimp for WordPress"
+msgstr ""
+
+#: inc/options.php:231
+msgid "Main"
+msgstr ""
+
+#: inc/options.php:201 inc/options.php:409
+msgid "Maintenance"
+msgstr ""
+
+#: inc/options.php:422
+msgid "Maintenance Page"
+msgstr ""
+
+#: inc/options.php:2497 inc/options.php:2517 inc/options.php:2537
+#: inc/options.php:2641
+msgid "Medium"
+msgstr ""
+
+#: inc/options.php:111 inc/options.php:1058
+#: template-parts/panels/hamburger.php:23
+msgid "Menu"
+msgstr ""
+
+#: inc/options.php:1308
+msgid "Menu Item"
+msgstr ""
+
+#: inc/header/campaign-bar.php:125
+#: inc/woocommerce/single-product/product-base.php:626
+msgid "min"
+msgstr ""
+
+#: inc/woocommerce/admin/customizer.php:115
+msgid "Mini Cart"
+msgstr ""
+
+#: inc/header/campaign-bar.php:124
+#: inc/woocommerce/single-product/product-base.php:625
+msgid "mins"
+msgstr ""
+
+#: inc/options.php:195
+msgid "Mobile"
+msgstr ""
+
+#: inc/options.php:2839
+msgid "Mobile Menu Elements"
+msgstr ""
+
+#: inc/options.php:404
+msgid "Mode"
+msgstr ""
+
+#: inc/breadcrumb.php:125
+msgid "Monthly:"
+msgstr ""
+
+#. Description of the theme
+msgid "Multipurpose WooCommerce WordPress Theme"
+msgstr ""
+
+#: inc/woocommerce/admin/customizer.php:271
+msgid "Name"
+msgstr ""
+
+#: inc/woocommerce/badges.php:163 inc/woocommerce/badges.php:198
+msgid "New"
+msgstr ""
+
+#: inc/woocommerce/admin/customizer.php:1015
+#: inc/woocommerce/admin/customizer.php:1979
+msgid "New Badge"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:94
+msgid "New Customer"
+msgstr ""
+
+#: inc/woocommerce/admin/product-settings.php:127
+msgid "New product?"
+msgstr ""
+
+#: inc/woocommerce/general.php:416
+msgid "Next"
+msgstr ""
+
+#: template-parts/post/post-navigation.php:35
+msgid "Next Post"
+msgstr ""
+
+#: inc/woocommerce/single-product/product-base.php:308
+#: inc/woocommerce/single-product/product-base.php:332
+#: inc/woocommerce/single-product/product-base.php:340
+#: inc/woocommerce/single-product/product-base.php:349
+msgid "Next product"
+msgstr ""
+
+#: inc/options.php:753
+msgid "No"
+msgstr ""
+
+#: inc/woocommerce/admin/customizer.php:403
+msgid "No Filter"
+msgstr ""
+
+#: inc/woocommerce/cart/quick-edit.php:77
+#: inc/woocommerce/loop/quick-view.php:113
+msgid "No product."
+msgstr ""
+
+#: inc/woocommerce/compare.php:211
+msgid ""
+"No products added in the compare list. You must add some products to compare "
+"them."
+msgstr ""
+
+#: inc/woocommerce/single-product/recently-viewed.php:196
+msgid "No products in recent viewing history."
+msgstr ""
+
+#: inc/woocommerce/wishlist.php:191
+msgid "No products were added to the shop page."
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:90
+msgid "No reviews yet."
+msgstr ""
+
+#: inc/options.php:3225 inc/options.php:3335
+msgid "No Sidebar"
+msgstr ""
+
+#: inc/options.php:2658 inc/woocommerce/admin/customizer.php:639
+#: inc/woocommerce/admin/customizer.php:673
+#: inc/woocommerce/admin/customizer.php:819
+#: inc/woocommerce/admin/customizer.php:857
+#: inc/woocommerce/admin/customizer.php:884
+#: inc/woocommerce/admin/customizer.php:1760
+#: inc/woocommerce/admin/customizer.php:1902
+#: inc/woocommerce/admin/customizer.php:1930
+#: inc/woocommerce/admin/customizer.php:2629
+#: inc/woocommerce/admin/product-settings.php:422
+msgid "None"
+msgstr ""
+
+#: inc/breadcrumb.php:121
+msgid "Not Found"
+msgstr ""
+
+#: template-parts/content/content-none.php:13
+msgid "Nothing Found"
+msgstr ""
+
+#: inc/woocommerce/product-card/base.php:360
+msgid "Notify Me"
+msgstr ""
+
+#: inc/options.php:2670
+msgid "Number of products"
+msgstr ""
+
+#: inc/options.php:560 inc/options.php:587 inc/options.php:827
+#: inc/options.php:2914 inc/options.php:3310
+#: inc/woocommerce/admin/customizer.php:526
+#: inc/woocommerce/admin/customizer.php:619
+msgid "Number(px)"
+msgstr ""
+
+#: inc/woocommerce/admin/customizer.php:2248
+#: inc/woocommerce/admin/customizer.php:2326
+#: inc/woocommerce/admin/customizer.php:2395
+#: inc/woocommerce/admin/customizer.php:2494
+msgid "Numbers"
+msgstr ""
+
+#: inc/options.php:3251 inc/woocommerce/admin/customizer.php:417
+msgid "Numeric"
+msgstr ""
+
+#: inc/helper.php:487
+msgid "of"
+msgstr ""
+
+#: 404.php:20
+msgid "Oops...That link is broken."
+msgstr ""
+
+#: inc/woocommerce/admin/customizer.php:2212
+msgid "Open first tab"
+msgstr ""
+
+#: inc/woocommerce/admin/customizer.php:883
+msgid "Open mini cart"
+msgstr ""
+
+#: template-parts/buttons/product-lightbox.php:10
+msgid "Open product lightbox"
+msgstr ""
+
+#: inc/options.php:2892
+msgid "Open Submenu Items on"
+msgstr ""
+
+#: inc/options.php:2473
+msgid "Open the account page"
+msgstr ""
+
+#: inc/options.php:2472
+msgid "Open the account popup"
+msgstr ""
+
+#: inc/woocommerce/admin/customizer.php:1944
+msgid "Opens your images against a dark backdrop"
+msgstr ""
+
+#: inc/woocommerce/admin/customizer.php:1564
+msgid "Order By"
+msgstr ""
+
+#: inc/woocommerce/admin/customizer.php:2575
+#: inc/woocommerce/admin/customizer.php:2598
+msgid "Order Information Box"
+msgstr ""
+
+#: inc/woocommerce/admin/customizer.php:2582
+#: inc/woocommerce/admin/customizer.php:2604
+msgid "Order Information Box Content"
+msgstr ""
+
+#: inc/maintenance.php:78
+msgid ""
+"Our website is currently undergoing scheduled maintenance. Please check back "
+"soon."
+msgstr ""
+
+#: inc/maintenance.php:76
+msgid ""
+"Our website is under construction. We will be here soon with our new awesome "
+"site."
+msgstr ""
+
+#: inc/woocommerce/badges.php:180
+msgid "Out Of Stock"
+msgstr ""
+
+#: inc/woocommerce/product-card/base.php:357
+msgid "Out of Stock"
+msgstr ""
+
+#: inc/woocommerce/badges.php:158
+#: inc/woocommerce/single-product/product-base.php:907
+msgid "Out of stock"
+msgstr ""
+
+#: inc/options.php:690
+msgid "Outline"
+msgstr ""
+
+#: inc/options.php:724
+msgid "Outline Dark"
+msgstr ""
+
+#: inc/woocommerce/admin/customizer.php:1613
+msgid "P"
+msgstr ""
+
+#: inc/options.php:3158 inc/options.php:3656
+#: inc/woocommerce/admin/customizer.php:1503
+msgid "Padding Bottom"
+msgstr ""
+
+#: inc/options.php:3124 inc/options.php:3622
+#: inc/woocommerce/admin/customizer.php:1469
+msgid "Padding Top"
+msgstr ""
+
+#: inc/options.php:186 inc/options.php:247
+msgid "Page"
+msgstr ""
+
+#: inc/options.php:342 inc/woocommerce/admin/customizer.php:128
+msgid "Page Header"
+msgstr ""
+
+#: inc/woocommerce/admin/category-settings.php:96
+#: inc/woocommerce/admin/category-settings.php:165
+msgid "Page Header Background"
+msgstr ""
+
+#: inc/woocommerce/admin/customizer.php:321
+msgid "Page Header Description"
+msgstr ""
+
+#: inc/woocommerce/admin/customizer.php:299
+msgid "Page Header Title"
+msgstr ""
+
+#: inc/page-header.php:205
+msgid "Page Not Found"
+msgstr ""
+
+#: inc/options.php:1103
+msgid "Page Title"
+msgstr ""
+
+#: template-parts/page/content-page.php:16
+msgid "Pages:"
+msgstr ""
+
+#: inc/options.php:3248 inc/woocommerce/admin/customizer.php:414
+msgid "Pagination Type"
+msgstr ""
+
+#: inc/options.php:2409 inc/options.php:4313
+msgid "Paste SVG code of your logo here"
+msgstr ""
+
+#: inc/options.php:2263
+msgid "Paste text of your campaign here"
+msgstr ""
+
+#: inc/options.php:1323 inc/options.php:2831 inc/options.php:4455
+msgid "Paste your HTML here"
+msgstr ""
+
+#: inc/woocommerce/single-product/upsells.php:59
+msgid "People Also Bought"
+msgstr ""
+
+#: inc/woocommerce/admin/customizer.php:954
+#: inc/woocommerce/admin/customizer.php:1962
+msgid "Percentage"
+msgstr ""
+
+#: inc/woocommerce/admin/product-settings.php:159
+msgid "Pick background color for your badge"
+msgstr ""
+
+#: inc/woocommerce/admin/product-settings.php:169
+msgid "Pick color for your badge"
+msgstr ""
+
+#: inc/options.php:463
+msgid "Pick my favorite color"
+msgstr ""
+
+#: inc/options.php:3399
+msgid "Pinterest"
+msgstr ""
+
+#: inc/woocommerce/admin/customizer.php:1817
+msgid "Please enter the contact form shortcode"
+msgstr ""
+
+#: inc/woocommerce/admin/customizer.php:2282
+#: inc/woocommerce/admin/customizer.php:2363
+#: inc/woocommerce/admin/customizer.php:2432
+msgid "Please enter the description"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:35
+msgid "Please enter your details below to sign in."
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:116
+msgid "Please register below to create an account."
+msgstr ""
+
+#: inc/admin/plugin-install.php:153
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: inc/header/search.php:148
+msgid "Popular Products"
+msgstr ""
+
+#: inc/woocommerce/catalog/toolbar.php:280
+msgid "Popularity"
+msgstr ""
+
+#: inc/options.php:2729 inc/woocommerce/admin/customizer.php:402
+msgid "Popup"
+msgstr ""
+
+#: inc/breadcrumb.php:122
+msgid "Portfolio"
+msgstr ""
+
+#: inc/woocommerce/admin/customizer.php:476
+#: inc/woocommerce/admin/customizer.php:2047
+msgid "Position"
+msgstr ""
+
+#. %s: post author.
+#: inc/blog/post.php:174
+#, php-format
+msgctxt "post author"
+msgid "Post by %s"
+msgstr ""
+
+#: inc/options.php:321
+msgid "Post Card Images"
+msgstr ""
+
+#: inc/options.php:3274
+msgid "Post Header Elements"
+msgstr ""
+
+#: inc/options.php:3348
+msgid "Post Navigation"
+msgstr ""
+
+#: inc/options.php:3342
+msgid "Post Sharing"
+msgstr ""
+
+#: inc/options.php:3331
+msgid "Post Sidebar"
+msgstr ""
+
+#: inc/options.php:3364
+msgid "Posts Numbers"
+msgstr ""
+
+#: inc/options.php:3369
+msgid "Posts Spacing"
+msgstr ""
+
+#: inc/woocommerce/badges.php:176 inc/woocommerce/badges.php:210
+msgid "Pre-Order"
+msgstr ""
+
+#: inc/options.php:1524
+msgid "Prebuilt Header"
+msgstr ""
+
+#: inc/woocommerce/admin/customizer.php:1190
+#: inc/woocommerce/admin/customizer.php:2009
+msgid "Preorder Badge"
+msgstr ""
+
+#: inc/options.php:1514 inc/options.php:3753
+msgid "Present"
+msgstr ""
+
+#: inc/woocommerce/general.php:415
+msgid "Previous"
+msgstr ""
+
+#: template-parts/post/post-navigation.php:25
+msgid "Previous Post"
+msgstr ""
+
+#: inc/woocommerce/single-product/product-base.php:314
+#: inc/woocommerce/single-product/product-base.php:326
+#: inc/woocommerce/single-product/product-base.php:360
+#: inc/woocommerce/single-product/product-base.php:369
+msgid "Previous product"
+msgstr ""
+
+#: inc/woocommerce/compare.php:261 inc/woocommerce/admin/customizer.php:273
+msgid "Price"
+msgstr ""
+
+#: inc/woocommerce/catalog/toolbar.php:283
+msgid "Price, high to low"
+msgstr ""
+
+#: inc/woocommerce/catalog/toolbar.php:282
+msgid "Price, low to high"
+msgstr ""
+
+#: inc/options.php:438
+msgid "Primary Color"
+msgstr ""
+
+#: inc/options.php:125 inc/options.php:2842 inc/options.php:2852
+#: inc/theme.php:171
+msgid "Primary Menu"
+msgstr ""
+
+#: inc/woocommerce/admin/customizer.php:758
+#: inc/woocommerce/admin/product-settings.php:429
+msgid "Primary Product Attribute"
+msgstr ""
+
+#: inc/woocommerce/admin/customizer.php:765
+#: inc/woocommerce/admin/product-settings.php:439
+msgid "Primary Product Attribute Number"
+msgstr ""
+
+#: inc/woocommerce/admin/customizer.php:1855
+msgid "Product Brands"
+msgstr ""
+
+#: inc/options.php:383 inc/woocommerce/admin/customizer.php:172
+msgid "Product Card"
+msgstr ""
+
+#: inc/woocommerce/admin/product-settings.php:188
+msgid "Product Card Attributes"
+msgstr ""
+
+#: inc/options.php:379 inc/woocommerce/admin/customizer.php:99
+#: inc/woocommerce/admin/customizer.php:160
+msgid "Product Catalog"
+msgstr ""
+
+#: inc/options.php:312 template-parts/header/sidebar-categories.php:18
+#: inc/woocommerce/admin/customizer.php:1850
+msgid "Product Categories"
+msgstr ""
+
+#: inc/options.php:4474
+msgid "Product Columns"
+msgstr ""
+
+#: inc/woocommerce/admin/customizer.php:1793
+#: inc/woocommerce/admin/customizer.php:1869
+msgid "Product Countdown Layout"
+msgstr ""
+
+#: inc/woocommerce/admin/customizer.php:1570
+msgid "Product Counts"
+msgstr ""
+
+#: inc/woocommerce/admin/customizer.php:1771
+msgid "Product Description"
+msgstr ""
+
+#: inc/woocommerce/admin/customizer.php:1776
+msgid "Product Description Lines"
+msgstr ""
+
+#: inc/woocommerce/admin/customizer.php:395
+msgid "Product Filter"
+msgstr ""
+
+#: inc/woocommerce/admin/customizer.php:189
+msgid "Product Gallery"
+msgstr ""
+
+#: inc/options.php:4471
+msgid "Product Grid"
+msgstr ""
+
+#: inc/woocommerce/admin/category-settings.php:111
+#: inc/woocommerce/admin/category-settings.php:204
+#: inc/woocommerce/admin/customizer.php:166
+#: inc/woocommerce/admin/customizer.php:442
+#: inc/woocommerce/catalog/product-grid-banner.php:95
+#: inc/woocommerce/catalog/product-grid-banner.php:98
+msgid "Product Grid Banner"
+msgstr ""
+
+#: inc/woocommerce/admin/category-settings.php:125
+#: inc/woocommerce/admin/category-settings.php:236
+msgid "Product Grid Banner Link"
+msgstr ""
+
+#: inc/woocommerce/admin/category-settings.php:133
+#: inc/woocommerce/admin/category-settings.php:245
+msgid "Product Grid Banner Position"
+msgstr ""
+
+#: inc/woocommerce/admin/customizer.php:219
+#: inc/woocommerce/admin/customizer.php:2119
+msgid "Product Highlights"
+msgstr ""
+
+#: inc/woocommerce/admin/customizer.php:551
+msgid "Product Hover"
+msgstr ""
+
+#: inc/woocommerce/admin/customizer.php:552
+msgid "Product hover animation."
+msgstr ""
+
+#: inc/woocommerce/admin/customizer.php:542
+msgid "Product Layout"
+msgstr ""
+
+#: inc/woocommerce/admin/customizer.php:1836
+msgid "Product Meta"
+msgstr ""
+
+#: inc/woocommerce/admin/customizer.php:343
+#: inc/woocommerce/admin/customizer.php:369
+msgid "Product Name"
+msgstr ""
+
+#: inc/woocommerce/admin/customizer.php:178
+msgid "Product Notifications"
+msgstr ""
+
+#: inc/woocommerce/admin/customizer.php:1806
+msgid "Product Share"
+msgstr ""
+
+#: inc/woocommerce/admin/customizer.php:1840
+msgid "Product SKU"
+msgstr ""
+
+#: inc/woocommerce/admin/customizer.php:1845
+msgid "Product Stock"
+msgstr ""
+
+#: inc/woocommerce/admin/customizer.php:195
+msgid "Product Summary"
+msgstr ""
+
+#: inc/woocommerce/admin/customizer.php:737
+msgid "Product Summary Alignment"
+msgstr ""
+
+#: inc/woocommerce/admin/customizer.php:225
+msgid "Product Tabs"
+msgstr ""
+
+#: inc/woocommerce/admin/customizer.php:2224
+msgid "Product Tabs Position"
+msgstr ""
+
+#: inc/woocommerce/admin/customizer.php:2208
+msgid "Product Tabs Status"
+msgstr ""
+
+#: inc/woocommerce/admin/customizer.php:1860
+msgid "Product Tags"
+msgstr ""
+
+#: inc/woocommerce/admin/customizer.php:670
+#: inc/woocommerce/admin/customizer.php:1756
+msgid "Product Taxonomy"
+msgstr ""
+
+#: inc/woocommerce/admin/customizer.php:698
+msgid "Product Title HTML Tag"
+msgstr ""
+
+#: inc/woocommerce/admin/customizer.php:714
+msgid "Product Title in"
+msgstr ""
+
+#: inc/options.php:2776 inc/woocommerce/compare.php:259
+msgid "Products"
+msgstr ""
+
+#: inc/options.php:399
+msgid "Put your site into maintenance mode"
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:95
+msgid "QTY:"
+msgstr ""
+
+#: inc/woocommerce/admin/customizer.php:566
+msgid "Quick Add button"
+msgstr ""
+
+#: inc/woocommerce/loop/quick-view.php:198
+#: inc/woocommerce/loop/quick-view.php:209
+msgid "Quick View"
+msgstr ""
+
+#: inc/options.php:4515
+msgid "Quick View button"
+msgstr ""
+
+#: inc/woocommerce/admin/customizer.php:603
+msgid "Quick view button"
+msgstr ""
+
+#: inc/woocommerce/loop/quick-view.php:211
+msgid "Quick View for"
+msgstr ""
+
+#. 1: rating 2: rating count
+#: inc/woocommerce/general.php:287
+#, php-format
+msgid "Rated %1$s out of 5 based on %2$s customer rating"
+msgid_plural "Rated %1$s out of 5 based on %2$s customer ratings"
+msgstr[0] ""
+msgstr[1] ""
+
+#. %s: rating
+#: inc/woocommerce/general.php:290
+#, php-format
+msgid "Rated %s out of 5"
+msgstr ""
+
+#: inc/woocommerce/admin/customizer.php:272
+msgid "Rating"
+msgstr ""
+
+#: inc/blog/post.php:249
+msgid "Read More"
+msgstr ""
+
+#. 1: link to WP admin new post page.
+#: template-parts/content/content-none.php:22
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: inc/options.php:2786 inc/woocommerce/admin/customizer.php:2486
+msgid "Recent Products"
+msgstr ""
+
+#: inc/options.php:2661
+msgid "Recent products"
+msgstr ""
+
+#: inc/options.php:4545 inc/woocommerce/single-product/recently-viewed.php:104
+msgid "Recently Viewed"
+msgstr ""
+
+#: inc/woocommerce/admin/customizer.php:243
+#: inc/woocommerce/admin/customizer.php:2378
+msgid "Recently Viewed Products"
+msgstr ""
+
+#: inc/options.php:2654
+msgid "Recommended Products"
+msgstr ""
+
+#: inc/options.php:2675
+msgid "Recommended Products Layout"
+msgstr ""
+
+#: inc/options.php:3401
+msgid "Reddit"
+msgstr ""
+
+#: inc/woocommerce/my-account.php:78 template-parts/header/account.php:32
+msgid "Register"
+msgstr ""
+
+#: inc/options.php:4543
+msgid "Related"
+msgstr ""
+
+#: inc/options.php:3358 template-parts/post/related-posts.php:59
+msgid "Related Posts"
+msgstr ""
+
+#: inc/woocommerce/admin/customizer.php:237
+#: inc/woocommerce/admin/customizer.php:2297
+msgid "Related Products"
+msgstr ""
+
+#: inc/woocommerce/catalog/toolbar.php:290
+msgid "Relevance"
+msgstr ""
+
+#: woocommerce/cart/cart.php:105 woocommerce/wishlist/wishlist-table.php:82
+#: inc/woocommerce/admin/customizer.php:268
+msgid "Remove"
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:129
+msgid "Remove this item"
+msgstr ""
+
+#: inc/helper.php:489
+msgid "result"
+msgstr ""
+
+#: inc/admin/plugin-install.php:152
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: inc/woocommerce/cart/cart.php:198
+msgid "Return to shop"
+msgstr ""
+
+#: inc/woocommerce/compare.php:263
+msgid "Review"
+msgstr ""
+
+#: inc/woocommerce/admin/customizer.php:742
+#: inc/woocommerce/admin/customizer.php:1666
+msgid "Right"
+msgstr ""
+
+#: inc/options.php:1234 inc/options.php:1692 inc/options.php:1828
+#: inc/options.php:4036 inc/options.php:4133
+msgid "Right Items"
+msgstr ""
+
+#: inc/options.php:3227 inc/options.php:3336
+#: inc/woocommerce/admin/customizer.php:399
+msgid "Right Sidebar"
+msgstr ""
+
+#: inc/options.php:553 inc/options.php:581 inc/options.php:820
+#: inc/woocommerce/admin/customizer.php:520
+#: inc/woocommerce/admin/customizer.php:613
+msgid "Round"
+msgstr ""
+
+#: inc/woocommerce/admin/customizer.php:2457
+msgid "Rounded corners"
+msgstr ""
+
+#: inc/woocommerce/helper.php:40
+msgid "s"
+msgstr ""
+
+#: inc/woocommerce/badges.php:161 inc/woocommerce/badges.php:242
+msgid "Sale"
+msgstr ""
+
+#: inc/woocommerce/admin/customizer.php:945
+#: inc/woocommerce/admin/customizer.php:1953
+msgid "Sale Badge"
+msgstr ""
+
+#: inc/options.php:528
+msgid "Sale Color"
+msgstr ""
+
+#: inc/woocommerce/admin/customizer.php:636
+msgid "Sale Display Type"
+msgstr ""
+
+#: inc/options.php:2788 inc/woocommerce/admin/customizer.php:2488
+msgid "Sale Products"
+msgstr ""
+
+#: inc/options.php:2662
+msgid "Sale products"
+msgstr ""
+
+#: inc/woocommerce/cart/mini-cart.php:285
+msgid "Save"
+msgstr ""
+
+#: inc/woocommerce/general.php:541 inc/woocommerce/cart/cart.php:222
+msgid "Save: "
+msgstr ""
+
+#: inc/options.php:1908
+msgid "Scroll Down"
+msgstr ""
+
+#: inc/options.php:1909
+msgid "Scroll Up"
+msgstr ""
+
+#: inc/options.php:127 inc/options.php:147 inc/options.php:308
+#: template-parts/header/search-form.php:12
+#: template-parts/header/search-icon.php:12
+msgid "Search"
+msgstr ""
+
+#: inc/options.php:2705
+msgid "Search Field Width"
+msgstr ""
+
+#: template-parts/modals/search.php:38
+msgid "Search Our Site"
+msgstr ""
+
+#: inc/page-header.php:202
+msgid "Search Results"
+msgstr ""
+
+#: inc/breadcrumb.php:120
+msgid "Search results for"
+msgstr ""
+
+#: inc/header/campaign-bar.php:127
+#: inc/woocommerce/single-product/product-base.php:628
+msgid "sec"
+msgstr ""
+
+#: inc/options.php:126 inc/theme.php:172
+msgid "Secondary Menu"
+msgstr ""
+
+#: inc/header/campaign-bar.php:126
+#: inc/woocommerce/single-product/product-base.php:627
+msgid "secs"
+msgstr ""
+
+#: inc/options.php:1515 inc/options.php:3754
+msgid "Select a prebuilt header or build your own"
+msgstr ""
+
+#: inc/options.php:1525
+msgid "Select a prebuilt header present"
+msgstr ""
+
+#: inc/options.php:107 inc/options.php:123 inc/options.php:144
+msgid "Select an Item"
+msgstr ""
+
+#: inc/helper.php:285
+msgid "Select an item"
+msgstr ""
+
+#: inc/options.php:4577
+msgid "Select Menu"
+msgstr ""
+
+#: inc/options.php:3388
+msgid "Select social media for sharing posts/products"
+msgstr ""
+
+#: inc/options.php:405
+msgid "Select the correct mode for your site"
+msgstr ""
+
+#: inc/options.php:2848 inc/options.php:2955 inc/options.php:3279
+#: inc/options.php:3453 inc/woocommerce/admin/customizer.php:1299
+msgid "Select which elements you want to show."
+msgstr ""
+
+#: inc/woocommerce/admin/customizer.php:2531
+msgid "Service Highlight"
+msgstr ""
+
+#: inc/woocommerce/admin/customizer.php:2538
+msgid "Service Highlight Content"
+msgstr ""
+
+#: inc/options.php:3739
+msgid ""
+"Set a breakpoint where the mobile header displays and the desktop header is "
+"hidden."
+msgstr ""
+
+#: inc/options.php:3700
+msgid "Set a breakpoint where the mobile navigation bar displays."
+msgstr ""
+
+#: template-parts/modals/product-share.php:28
+#: inc/woocommerce/single-product/share.php:67
+msgid "Share"
+msgstr ""
+
+#: inc/options.php:337
+msgid "Share Socials"
+msgstr ""
+
+#: inc/blog/post.php:285
+msgid "Share:"
+msgstr ""
+
+#: inc/woocommerce/admin/customizer.php:207
+#: inc/woocommerce/admin/customizer.php:2041
+msgid "Shipping & Promotions Information"
+msgstr ""
+
+#: inc/woocommerce/admin/customizer.php:69
+msgid "Shop"
+msgstr ""
+
+#: template-parts/panels/cart.php:22
+msgid "Shopping Cart "
+msgstr ""
+
+#: inc/woocommerce/admin/customizer.php:791
+msgid "Short Description Line Limit"
+msgstr ""
+
+#: inc/woocommerce/admin/customizer.php:1763
+msgid "Show a product taxonomy above the product title on the product page."
+msgstr ""
+
+#: inc/options.php:4493
+msgid "Show Add To Cart Button"
+msgstr ""
+
+#: inc/options.php:4524
+msgid "Show Gallery Arrows"
+msgstr ""
+
+#: inc/woocommerce/catalog/page-header.php:98
+#: inc/woocommerce/single-product/product-base.php:543
+msgid "Show Less"
+msgstr ""
+
+#: inc/woocommerce/catalog/page-header.php:97
+#: inc/woocommerce/catalog/page-header.php:112
+#: inc/woocommerce/single-product/product-base.php:542
+#: inc/woocommerce/single-product/product-base.php:550
+msgid "Show More"
+msgstr ""
+
+#: inc/woocommerce/admin/product-settings.php:441
+msgid "Show number of the product attribute in the product card"
+msgstr ""
+
+#: inc/woocommerce/admin/customizer.php:1546
+msgid "Show on Brand Page"
+msgstr ""
+
+#: inc/woocommerce/admin/customizer.php:580
+msgid "Show on Hover"
+msgstr ""
+
+#: inc/woocommerce/admin/customizer.php:761
+msgid "Show primary product attribute in the product card"
+msgstr ""
+
+#: inc/woocommerce/admin/customizer.php:684
+msgid "Show Rating"
+msgstr ""
+
+#: inc/woocommerce/admin/customizer.php:453
+msgid "Show shop banner"
+msgstr ""
+
+#: inc/woocommerce/admin/product-settings.php:431
+msgid "Show the product attribute in the product card"
+msgstr ""
+
+#: inc/options.php:2730 inc/options.php:3222 inc/vendors/dokan.php:233
+#: inc/vendors/wcfm.php:281
+msgid "Sidebar"
+msgstr ""
+
+#: inc/options.php:2821
+msgid "Sidebar Categories"
+msgstr ""
+
+#: inc/options.php:2678
+msgid "Sidebar List"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:64
+msgid "Sign In"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:34
+msgid "Sign in"
+msgstr ""
+
+#: inc/options.php:2469
+msgid "Sign in Icon Behaviour"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:97
+msgid ""
+"Sign up for early Sale access plus tailored new arrivals, trends and "
+"promotions. To opt out, click unsubscribe in our emails."
+msgstr ""
+
+#: inc/options.php:387 inc/woocommerce/admin/customizer.php:75
+#: inc/woocommerce/admin/customizer.php:103
+msgid "Single Product"
+msgstr ""
+
+#: inc/options.php:2593
+msgid "Size"
+msgstr ""
+
+#: inc/woocommerce/compare.php:265 inc/woocommerce/admin/customizer.php:275
+msgid "SKU"
+msgstr ""
+
+#: woocommerce/single-product/meta.php:32
+msgid "Sku:"
+msgstr ""
+
+#: inc/options.php:1275
+msgid "Slide"
+msgstr ""
+
+#: inc/options.php:110 inc/options.php:2162
+msgid "Slides"
+msgstr ""
+
+#: inc/options.php:1272
+msgid "Slides Item"
+msgstr ""
+
+#: inc/options.php:4540
+msgid "Slides Per View Auto"
+msgstr ""
+
+#: inc/woocommerce/admin/customizer.php:1136
+msgid "Sold Out Badge"
+msgstr ""
+
+#: inc/options.php:608
+msgid "Solid Dark"
+msgstr ""
+
+#: inc/options.php:649
+msgid "Solid Light"
+msgstr ""
+
+#: inc/admin/plugin-install.php:141
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: 404.php:21
+msgid ""
+"Sorry for the inconvenience. Go to our homepage or check out our latest "
+"collections."
+msgstr ""
+
+#: template-parts/content/content-none.php:42
+msgid "Sorry, but nothing matched your search terms."
+msgstr ""
+
+#: template-parts/content/content-none.php:35
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: inc/admin/plugin-install.php:147
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %s plugin."
+" Contact the administrator of this site for help on getting the plugin "
+"activated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins activated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/admin/plugin-install.php:144
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"installed."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to install the %s plugins."
+" Contact the administrator of this site for help on getting the plugins "
+"installed."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/admin/plugin-install.php:149
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"updated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to update the %s plugins. "
+"Contact the administrator of this site for help on getting the plugins "
+"updated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/woocommerce/admin/customizer.php:1695
+msgid "Sort By"
+msgstr ""
+
+#: inc/woocommerce/catalog/toolbar.php:149
+#: inc/woocommerce/catalog/toolbar.php:159
+msgid "Sort by:"
+msgstr ""
+
+#: inc/woocommerce/admin/customizer.php:1612
+msgid "Span"
+msgstr ""
+
+#: inc/woocommerce/admin/customizer.php:647
+#: inc/woocommerce/admin/customizer.php:2177
+msgid "Speed"
+msgstr ""
+
+#: inc/options.php:554 inc/options.php:580 inc/options.php:821
+#: inc/options.php:2908 inc/options.php:3297
+#: inc/woocommerce/admin/customizer.php:612
+#: inc/woocommerce/admin/customizer.php:2458
+msgid "Square"
+msgstr ""
+
+#: inc/woocommerce/admin/customizer.php:1921
+msgid "Stacked"
+msgstr ""
+
+#: inc/woocommerce/admin/customizer.php:555
+msgid "Standard"
+msgstr ""
+
+#: inc/options.php:280 inc/options.php:367 inc/options.php:1900
+#: inc/options.php:3881
+msgid "Sticky Header"
+msgstr ""
+
+#: inc/options.php:1921 inc/options.php:3886
+msgid "Sticky Header Section"
+msgstr ""
+
+#: inc/options.php:1905
+msgid "Sticky On"
+msgstr ""
+
+#: inc/woocommerce/admin/customizer.php:1999
+msgid "Stock Badge"
+msgstr ""
+
+#: inc/woocommerce/admin/customizer.php:248
+msgid "Store Style"
+msgstr ""
+
+#: inc/options.php:3403
+msgid "StumbleUpon"
+msgstr ""
+
+#: inc/options.php:175
+msgid "Styling"
+msgstr ""
+
+#: inc/options.php:1079
+msgid "Sub-Menu"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:106
+msgid "Submit Review"
+msgstr ""
+
+#: inc/options.php:2391 inc/options.php:4295
+msgid "SVG"
+msgstr ""
+
+#: inc/options.php:2558
+msgid "SVG Code"
+msgstr ""
+
+#: inc/woocommerce/admin/customizer.php:288
+msgid "Table Columns"
+msgstr ""
+
+#: inc/woocommerce/admin/customizer.php:2202
+msgid "Tabs"
+msgstr ""
+
+#: inc/blog/post.php:269
+msgid "Tags:"
+msgstr ""
+
+#: inc/woocommerce/admin/customizer.php:136
+msgid "Taxonomy Description"
+msgstr ""
+
+#: inc/woocommerce/admin/customizer.php:1629
+msgid "Taxonomy Description Below the Products"
+msgstr ""
+
+#: inc/woocommerce/admin/customizer.php:1635
+msgid "Taxonomy Description HTML"
+msgstr ""
+
+#: inc/options.php:3405
+msgid "Telegram"
+msgstr ""
+
+#: inc/options.php:799 inc/options.php:1281 inc/options.php:2225
+#: inc/options.php:2262 inc/options.php:2390 inc/options.php:2760
+#: inc/options.php:4294 inc/woocommerce/admin/customizer.php:955
+#: inc/woocommerce/admin/customizer.php:1963
+#: inc/woocommerce/admin/customizer.php:2164
+msgid "Text"
+msgstr ""
+
+#: inc/options.php:2023 inc/options.php:2078 inc/options.php:4182
+#: inc/options.php:4241 inc/woocommerce/admin/customizer.php:989
+#: inc/woocommerce/admin/customizer.php:1056
+#: inc/woocommerce/admin/customizer.php:1110
+#: inc/woocommerce/admin/customizer.php:1164
+#: inc/woocommerce/admin/customizer.php:1218
+msgid "Text Color"
+msgstr ""
+
+#: inc/options.php:482
+msgid "Text on Primary Color"
+msgstr ""
+
+#: inc/admin/plugin-install.php:148
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/admin/plugin-install.php:146
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/admin/plugin-install.php:145
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/page-header.php:209
+msgid "The Latest Posts"
+msgstr ""
+
+#: inc/options.php:3332
+msgid "The layout of single posts"
+msgstr ""
+
+#: inc/woocommerce/catalog/toolbar.php:260
+msgid "There are "
+msgstr ""
+
+#: inc/admin/plugin-install.php:143
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/admin/plugin-install.php:142
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/woocommerce/admin/customizer.php:270
+msgid "Thumbnail"
+msgstr ""
+
+#: inc/options.php:2952 inc/options.php:3449
+#: inc/woocommerce/admin/customizer.php:1295
+#: inc/woocommerce/admin/customizer.php:2552
+msgid "Title"
+msgstr ""
+
+#: inc/options.php:2895
+msgid "Title & Icon click"
+msgstr ""
+
+#: inc/options.php:3028 inc/options.php:3526
+#: inc/woocommerce/admin/customizer.php:1373
+msgid "Title Color"
+msgstr ""
+
+#: inc/woocommerce/admin/customizer.php:1603
+msgid "Title HTML Tag"
+msgstr ""
+
+#: inc/woocommerce/cart/cart.php:206
+msgid "to check out faster."
+msgstr ""
+
+#: inc/woocommerce/admin/customizer.php:144
+#: inc/woocommerce/admin/customizer.php:1541
+msgid "Top Categories"
+msgstr ""
+
+#: inc/options.php:2790 inc/woocommerce/admin/customizer.php:2487
+msgid "Top Rated Products"
+msgstr ""
+
+#: inc/options.php:2663
+msgid "Top rated products"
+msgstr ""
+
+#: inc/options.php:260 inc/options.php:347 inc/options.php:1176
+#: inc/options.php:3693
+msgid "Topbar"
+msgstr ""
+
+#: inc/options.php:1335
+msgid "Topbar Background"
+msgstr ""
+
+#: inc/options.php:1183
+msgid "Topbar Full Width"
+msgstr ""
+
+#: inc/options.php:3717
+msgid "Topbar Items"
+msgstr ""
+
+#: inc/options.php:1440
+msgid "Topbar Style"
+msgstr ""
+
+#: woocommerce/cart/cart.php:32 woocommerce/cart/cart.php:169
+msgid "Total"
+msgstr ""
+
+#: inc/woocommerce/admin/customizer.php:1694
+msgid "Total Products"
+msgstr ""
+
+#: inc/options.php:2741
+msgid "Trending"
+msgstr ""
+
+#: inc/header/search.php:64
+msgid "Trending Search"
+msgstr ""
+
+#: inc/options.php:3400
+msgid "Tumblr"
+msgstr ""
+
+#: inc/options.php:3397
+msgid "Twitter"
+msgstr ""
+
+#: inc/options.php:2158 inc/options.php:2726 inc/options.php:2783
+#: inc/woocommerce/admin/customizer.php:951
+#: inc/woocommerce/admin/customizer.php:1959
+#: inc/woocommerce/admin/customizer.php:2063
+msgid "Type"
+msgstr ""
+
+#: inc/options.php:179
+msgid "Typography"
+msgstr ""
+
+#. Author of the theme
+msgid "UIXThemes"
+msgstr ""
+
+#: inc/woocommerce/admin/customizer.php:2228
+msgid "Under Summary"
+msgstr ""
+
+#: inc/options.php:780
+msgid "Underline"
+msgstr ""
+
+#: inc/woocommerce/admin/product-settings.php:219
+#: inc/woocommerce/admin/product-settings.php:234
+#: inc/woocommerce/admin/product-settings.php:263
+msgid "Unit of measure"
+msgstr ""
+
+#: inc/woocommerce/admin/customizer.php:231
+msgid "Up-Sells Products"
+msgstr ""
+
+#: inc/woocommerce/admin/customizer.php:2467
+msgid "Update Cart Automatically"
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:113
+msgid "Update this item"
+msgstr ""
+
+#: inc/woocommerce/admin/category-settings.php:104
+#: inc/woocommerce/admin/category-settings.php:119
+#: inc/woocommerce/admin/category-settings.php:192
+#: inc/woocommerce/admin/category-settings.php:230
+msgid "Upload/Add Image"
+msgstr ""
+
+#: inc/options.php:4544
+msgid "Upsells"
+msgstr ""
+
+#: inc/woocommerce/admin/customizer.php:2243
+msgid "Upsells Products"
+msgstr ""
+
+#: inc/options.php:2764
+msgid "URL"
+msgstr ""
+
+#: inc/options.php:1518 inc/options.php:3757
+msgid "Use pre-build header"
+msgstr ""
+
+#: inc/theme.php:174
+msgid "User Logged Menu"
+msgstr ""
+
+#: inc/woocommerce/login.php:70
+msgid "Username is required."
+msgstr ""
+
+#: inc/woocommerce/admin/customizer.php:773
+msgid "Variation Swatches Style"
+msgstr ""
+
+#: inc/woocommerce/admin/customizer.php:816
+#: inc/woocommerce/admin/customizer.php:854
+#: inc/woocommerce/admin/customizer.php:1899
+msgid "Vendor Name"
+msgstr ""
+
+#: inc/woocommerce/admin/customizer.php:827
+#: inc/woocommerce/admin/customizer.php:864
+msgid "Vendor Position"
+msgstr ""
+
+#: inc/woocommerce/admin/customizer.php:81
+msgid "Vendors"
+msgstr ""
+
+#: inc/woocommerce/admin/customizer.php:1696
+#: inc/woocommerce/admin/customizer.php:1708
+msgid "View"
+msgstr ""
+
+#: inc/woocommerce/cart/mini-cart.php:236
+msgid "View cart"
+msgstr ""
+
+#: inc/woocommerce/product-notices.php:87
+msgid "View Compare"
+msgstr ""
+
+#: inc/woocommerce/shoppable-video-elementor.php:86
+msgid "View details"
+msgstr ""
+
+#: inc/woocommerce/single-product-summary.php:104
+#: inc/woocommerce/loop/quick-view.php:156
+msgid "View Full Details"
+msgstr ""
+
+#: inc/woocommerce/product-notices.php:75
+msgid "View Wishlist"
+msgstr ""
+
+#: inc/options.php:3407
+msgid "VK"
+msgstr ""
+
+#: inc/woocommerce/helper.php:36
+msgid "w"
+msgstr ""
+
+#: inc/admin/plugin-install.php:114
+msgid "WCBoost - Products Compare"
+msgstr ""
+
+#: inc/admin/plugin-install.php:100
+msgid "WCBoost - Variation Swatches"
+msgstr ""
+
+#: inc/admin/plugin-install.php:107
+msgid "WCBoost - Wishlist"
+msgstr ""
+
+#: inc/maintenance.php:78
+msgid "Website Under Maintenance"
+msgstr ""
+
+#: inc/header/campaign-bar.php:119
+#: inc/woocommerce/single-product/product-base.php:620
+msgid "week"
+msgstr ""
+
+#: inc/header/campaign-bar.php:118
+#: inc/woocommerce/single-product/product-base.php:619
+msgid "weeks"
+msgstr ""
+
+#: inc/woocommerce/compare.php:264 inc/woocommerce/admin/customizer.php:277
+msgid "Weight"
+msgstr ""
+
+#: inc/options.php:3406
+msgid "WhatsApp"
+msgstr ""
+
+#: inc/options.php:3414
+msgid "WhatsApp Phone Number"
+msgstr ""
+
+#: inc/options.php:255
+msgid "Widgets"
+msgstr ""
+
+#: inc/options.php:2175
+msgid "Width"
+msgstr ""
+
+#: inc/options.php:129 inc/options.php:149 inc/options.php:296
+#: template-parts/header/wishlist.php:28
+msgid "Wishlist"
+msgstr ""
+
+#: inc/options.php:4505 inc/woocommerce/admin/customizer.php:572
+msgid "Wishlist button"
+msgstr ""
+
+#: inc/options.php:4400 inc/woocommerce/admin/customizer.php:577
+msgid "Wishlist Display"
+msgstr ""
+
+#: inc/woocommerce/admin/customizer.php:901
+msgid "Wishlist Notification Auto Hide"
+msgstr ""
+
+#: inc/admin/plugin-install.php:63
+msgid "WooCommerce"
+msgstr ""
+
+#: inc/woocommerce/admin/customizer.php:64
+msgid "Woocommerce"
+msgstr ""
+
+#. %s is product title
+#: woocommerce/single-product-reviews.php:100
+msgid "Write a product review"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:82
+#: woocommerce/single-product-reviews.php:88
+#: woocommerce/single-product-reviews.php:88
+msgid "Write a review"
+msgstr ""
+
+#: inc/breadcrumb.php:126
+msgid "Yearly:"
+msgstr ""
+
+#: inc/options.php:752
+msgid "Yes"
+msgstr ""
+
+#: inc/woocommerce/admin/customizer.php:1022
+msgid ""
+"You can also add the NEW badge to each product in the Advanced setting tab "
+"of them."
+msgstr ""
+
+#: inc/woocommerce/login.php:87
+msgid "You have logged in successfully."
+msgstr ""
+
+#: woocommerce/cart/cross-sells.php:44 inc/woocommerce/cart/cart.php:150
+msgid "You may also like&hellip;"
+msgstr ""
+
+#: inc/woocommerce/cart/mini-cart.php:174
+#: inc/woocommerce/cart/mini-cart.php:200
+msgid "You may also like..."
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:190
+msgid "You may check out all the available products and buy some in the shop."
+msgstr ""
+
+#. %s opening and closing link tags respectively
+#: woocommerce/single-product-reviews.php:150
+#, php-format
+msgid "You must be %slogged in%s to post a review."
+msgstr ""
+
+#: inc/woocommerce/compare.php:212
+msgid "You will find a lot of interesting products on our \"Shop\" page."
+msgstr ""
+
+#: inc/helper.php:485
+msgid "You've viewed"
+msgstr ""
+
+#: inc/woocommerce/login.php:124
+msgid ""
+"Your account was created successfully and a password has been sent to your "
+"email address."
+msgstr ""
+
+#: inc/woocommerce/login.php:126
+msgid ""
+"Your account was created successfully. Your login details have been sent to "
+"your email address."
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:189
+msgid "Your cart is currently empty!."
+msgstr ""
+
+#: inc/woocommerce/cart/cart.php:186
+msgid "Your cart is empty"
+msgstr ""
+
+#: inc/blog/comments.php:184
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: comments.php:59
+msgid "Your Comment*"
+msgstr ""
+
+#: inc/blog/comments.php:65
+msgid "Your email address will not be published."
+msgstr ""
+
+#: inc/blog/comments.php:96
+msgid "Your Email*"
+msgstr ""
+
+#: inc/blog/comments.php:92
+msgid "Your Name*"
+msgstr ""
+
+#: inc/blog/comments.php:100
+msgid "Your Website (Optional)"
+msgstr ""
+
+#: inc/woocommerce/admin/customizer.php:1927
+msgid "Zoom"
+msgstr ""
+
+#: inc/woocommerce/admin/customizer.php:1935
+msgid "Zooms in where your cursor is on the image"
+msgstr ""
+
+#: inc/woocommerce/admin/product-settings.php:239
+msgid "— No change —"
+msgstr ""
