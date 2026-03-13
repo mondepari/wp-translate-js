@@ -49,6 +49,11 @@
             <label style="cursor: pointer;"><input type="radio" name="untranslatedAction" value="blank"> Leave translation field empty</label>
         </div>
 
+        <label for="replacements"><strong>5. Phrase Replacements / Dictionary (Optional):</strong></label><br>
+        <p style="font-size: 13px; color: #666; margin-top: 0;">Format: <code>Original = Translation</code> (e.g., <code>[Glozin] = [Glozin]</code> or <code>Apple = Яблоко</code>). One per line. These phrases will be protected and replaced in the text.</p>
+        <textarea id="replacements" rows="4" style="width: 100%; padding: 10px; border-radius: 4px; border: 1px solid #ccc; font-family: inherit; font-size: 14px;"></textarea>
+        <br><br>
+
         <button class="btn" id="startBtn" onclick="startTranslation()">Translate File</button>
     </div>
 
@@ -68,6 +73,7 @@
             formData.append('toLang', document.getElementById('toLang').value);
             formData.append('fromLang', 'en');
             formData.append('exclusions', document.getElementById('exclusions').value);
+            formData.append('replacements', document.getElementById('replacements').value);
             
             const actionSelection = document.querySelector('input[name="untranslatedAction"]:checked').value;
             formData.append('untranslatedAction', actionSelection);
